@@ -1,10 +1,10 @@
 /*!
  * jQuery UI Progressbar 1.13.1
- * https://jqueryui.com
+ * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
  * Released under the MIT license.
- * https://jquery.org/license
+ * http://jquery.org/license
  */
 
 //>>label: Progressbar
@@ -12,8 +12,8 @@
 /* eslint-disable max-len */
 //>>description: Displays a status indicator for loading state, standard percentage, and other progress indicators.
 /* eslint-enable max-len */
-//>>docs: https://api.jqueryui.com/progressbar/
-//>>demos: https://jqueryui.com/progressbar/
+//>>docs: http://api.jqueryui.com/progressbar/
+//>>demos: http://jqueryui.com/progressbar/
 //>>css.structure: ../../themes/base/core.css
 //>>css.structure: ../../themes/base/progressbar.css
 //>>css.theme: ../../themes/base/theme.css

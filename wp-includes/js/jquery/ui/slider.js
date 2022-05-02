@@ -1,17 +1,17 @@
 /*!
  * jQuery UI Slider 1.13.1
- * https://jqueryui.com
+ * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
  * Released under the MIT license.
- * https://jquery.org/license
+ * http://jquery.org/license
  */
 
 //>>label: Slider
 //>>group: Widgets
 //>>description: Displays a flexible slider with ranges and accessibility via keyboard.
-//>>docs: https://api.jqueryui.com/slider/
-//>>demos: https://jqueryui.com/slider/
+//>>docs: http://api.jqueryui.com/slider/
+//>>demos: http://jqueryui.com/slider/
 //>>css.structure: ../../themes/base/core.css
 //>>css.structure: ../../themes/base/slider.css
 //>>css.theme: ../../themes/base/theme.css

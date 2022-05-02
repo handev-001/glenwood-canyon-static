@@ -1,5 +1,5 @@
 /*! jQuery UI - v1.13.1 - 2022-01-20
-* https://jqueryui.com
+* http://jqueryui.com
 * Includes: data.js, disable-selection.js, escape-selector.js, focusable.js, form-reset-mixin.js, form.js, ie.js, jquery-1-7.js, keycode.js, labels.js, plugin.js, position.js, safe-active-element.js, safe-blur.js, scroll-parent.js, tabbable.js, unique-id.js, version.js, widget.js
 * Copyright jQuery Foundation and other contributors; Licensed  */
 ( function( factory ) {
@@ -25,17 +25,17 @@ $.ui.version = "1.13.1";
 // Source: data.js
 /*!
  * jQuery UI :data 1.13.1
- * https://jqueryui.com
+ * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
  * Released under the MIT license.
- * https://jquery.org/license
+ * http://jquery.org/license
  */
 
 //>>label: :data Selector
 //>>group: Core
 //>>description: Selects elements which have data stored under the specified key.
-//>>docs: https://api.jqueryui.com/data-selector/
+//>>docs: http://api.jqueryui.com/data-selector/
 
 $.extend( $.expr.pseudos, {
 	data: $.expr.createPseudo ?
@@ -54,17 +54,17 @@ $.extend( $.expr.pseudos, {
 // Source: disable-selection.js
 /*!
  * jQuery UI Disable Selection 1.13.1
- * https://jqueryui.com
+ * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
  * Released under the MIT license.
- * https://jquery.org/license
+ * http://jquery.org/license
  */
 
 //>>label: disableSelection
 //>>group: Core
 //>>description: Disable selection of text content within the set of matched elements.
-//>>docs: https://api.jqueryui.com/disableSelection/
+//>>docs: http://api.jqueryui.com/disableSelection/
 
 // This file is deprecated
 $.fn.extend( {
@@ -88,17 +88,17 @@ $.fn.extend( {
 // Source: focusable.js
 /*!
  * jQuery UI Focusable 1.13.1
- * https://jqueryui.com
+ * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
  * Released under the MIT license.
- * https://jquery.org/license
+ * http://jquery.org/license
  */
 
 //>>label: :focusable Selector
 //>>group: Core
 //>>description: Selects elements which can be focused.
-//>>docs: https://api.jqueryui.com/focusable-selector/
+//>>docs: http://api.jqueryui.com/focusable-selector/
 
 // Selectors
 $.ui.focusable = function( element, hasTabindex ) {
@@ -165,17 +165,17 @@ $.fn._form = function() {
 // Source: form-reset-mixin.js
 /*!
  * jQuery UI Form Reset Mixin 1.13.1
- * https://jqueryui.com
+ * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
  * Released under the MIT license.
- * https://jquery.org/license
+ * http://jquery.org/license
  */
 
 //>>label: Form Reset Mixin
 //>>group: Core
 //>>description: Refresh input widgets when their form is reset
-//>>docs: https://api.jqueryui.com/form-reset-mixin/
+//>>docs: http://api.jqueryui.com/form-reset-mixin/
 
 $.ui.formResetMixin = {
 	_formResetHandler: function() {
@@ -230,11 +230,11 @@ $.ui.ie = !!/msie [\w.]+/.exec( navigator.userAgent.toLowerCase() );
 // Source: jquery-patch.js
 /*!
  * jQuery UI Support for jQuery core 1.8.x and newer 1.13.0
- * https://jqueryui.com
+ * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
  * Released under the MIT license.
- * https://jquery.org/license
+ * http://jquery.org/license
  *
  */
 
@@ -304,17 +304,17 @@ if ( !$.fn.even || !$.fn.odd ) {
 // Source: keycode.js
 /*!
  * jQuery UI Keycode 1.13.1
- * https://jqueryui.com
+ * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
  * Released under the MIT license.
- * https://jquery.org/license
+ * http://jquery.org/license
  */
 
 //>>label: Keycode
 //>>group: Core
 //>>description: Provide keycodes as keynames
-//>>docs: https://api.jqueryui.com/jQuery.ui.keyCode/
+//>>docs: http://api.jqueryui.com/jQuery.ui.keyCode/
 
 $.ui.keyCode = {
 	BACKSPACE: 8,
@@ -338,17 +338,17 @@ $.ui.keyCode = {
 // Source: labels.js
 /*!
  * jQuery UI Labels 1.13.1
- * https://jqueryui.com
+ * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
  * Released under the MIT license.
- * https://jquery.org/license
+ * http://jquery.org/license
  */
 
 //>>label: labels
 //>>group: Core
 //>>description: Find all the labels associated with a given input
-//>>docs: https://api.jqueryui.com/labels/
+//>>docs: http://api.jqueryui.com/labels/
 
 $.fn.labels = function() {
 	var ancestor, selector, id, labels, ancestors;
@@ -424,20 +424,20 @@ $.ui.plugin = {
 // Source: position.js
 /*!
  * jQuery UI Position 1.13.1
- * https://jqueryui.com
+ * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
  * Released under the MIT license.
- * https://jquery.org/license
+ * http://jquery.org/license
  *
- * https://api.jqueryui.com/position/
+ * http://api.jqueryui.com/position/
  */
 
 //>>label: Position
 //>>group: Core
 //>>description: Positions elements relative to other elements.
-//>>docs: https://api.jqueryui.com/position/
-//>>demos: https://jqueryui.com/position/
+//>>docs: http://api.jqueryui.com/position/
+//>>demos: http://jqueryui.com/position/
 
 ( function() {
 var cachedScrollbarWidth,
@@ -957,17 +957,17 @@ $.ui.safeBlur = function( element ) {
 // Source: scroll-parent.js
 /*!
  * jQuery UI Scroll Parent 1.13.1
- * https://jqueryui.com
+ * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
  * Released under the MIT license.
- * https://jquery.org/license
+ * http://jquery.org/license
  */
 
 //>>label: scrollParent
 //>>group: Core
 //>>description: Get the closest ancestor element that is scrollable.
-//>>docs: https://api.jqueryui.com/scrollParent/
+//>>docs: http://api.jqueryui.com/scrollParent/
 
 $.fn.scrollParent = function( includeHidden ) {
 	var position = this.css( "position" ),
@@ -990,17 +990,17 @@ $.fn.scrollParent = function( includeHidden ) {
 // Source: tabbable.js
 /*!
  * jQuery UI Tabbable 1.13.1
- * https://jqueryui.com
+ * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
  * Released under the MIT license.
- * https://jquery.org/license
+ * http://jquery.org/license
  */
 
 //>>label: :tabbable Selector
 //>>group: Core
 //>>description: Selects elements which can be tabbed to.
-//>>docs: https://api.jqueryui.com/tabbable-selector/
+//>>docs: http://api.jqueryui.com/tabbable-selector/
 
 $.extend( $.expr.pseudos, {
 	tabbable: function( element ) {
@@ -1013,17 +1013,17 @@ $.extend( $.expr.pseudos, {
 // Source: unique-id.js
 /*!
  * jQuery UI Unique ID 1.13.1
- * https://jqueryui.com
+ * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
  * Released under the MIT license.
- * https://jquery.org/license
+ * http://jquery.org/license
  */
 
 //>>label: uniqueId
 //>>group: Core
 //>>description: Functions to generate and remove uniqueId's
-//>>docs: https://api.jqueryui.com/uniqueId/
+//>>docs: http://api.jqueryui.com/uniqueId/
 
 $.fn.extend( {
 	uniqueId: ( function() {
@@ -1050,18 +1050,18 @@ $.fn.extend( {
 // Source: widget.js
 /*!
  * jQuery UI Widget 1.13.1
- * https://jqueryui.com
+ * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
  * Released under the MIT license.
- * https://jquery.org/license
+ * http://jquery.org/license
  */
 
 //>>label: Widget
 //>>group: Core
 //>>description: Provides a factory for creating stateful widgets with a common API.
-//>>docs: https://api.jqueryui.com/jQuery.widget/
-//>>demos: https://jqueryui.com/widget/
+//>>docs: http://api.jqueryui.com/jQuery.widget/
+//>>demos: http://jqueryui.com/widget/
 
 var widgetUuid = 0;
 var widgetHasOwnProperty = Array.prototype.hasOwnProperty;

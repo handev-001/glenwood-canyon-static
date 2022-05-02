@@ -1,17 +1,17 @@
 /*!
  * jQuery UI Controlgroup 1.13.1
- * https://jqueryui.com
+ * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
  * Released under the MIT license.
- * https://jquery.org/license
+ * http://jquery.org/license
  */
 
 //>>label: Controlgroup
 //>>group: Widgets
 //>>description: Visually groups form control widgets
-//>>docs: https://api.jqueryui.com/controlgroup/
-//>>demos: https://jqueryui.com/controlgroup/
+//>>docs: http://api.jqueryui.com/controlgroup/
+//>>demos: http://jqueryui.com/controlgroup/
 //>>css.structure: ../../themes/base/core.css
 //>>css.structure: ../../themes/base/controlgroup.css
 //>>css.theme: ../../themes/base/theme.css

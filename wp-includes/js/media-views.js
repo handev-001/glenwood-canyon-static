@@ -179,7 +179,7 @@ EmbedUrl = View.extend(/** @lends wp.media.view.EmbedUrl.prototype */{
 			return;
 		}
 
-		this.input.value = this.model.get('url') || 'https://';
+		this.input.value = this.model.get('url') || 'http://';
 		/**
 		 * Call `render` directly on parent class with passed arguments
 		 */
@@ -456,7 +456,7 @@ AttachmentDisplay = Settings.extend(/** @lends wp.media.view.Settings.Attachment
 			} else if ( 'file' === linkTo ) {
 				$input.val( attachment.get('url') );
 			} else if ( ! this.model.get('linkUrl') ) {
-				$input.val('https://');
+				$input.val('http://');
 			}
 
 			$input.prop( 'readonly', 'custom' !== linkTo );
@@ -4260,7 +4260,7 @@ EmbedLink = wp.media.view.Settings.extend(/** @lends wp.media.view.EmbedLink.pro
 		this.$( '.setting' ).hide();
 
 		// Only proceed with embed if the field contains more than 11 characters.
-		// Example: https://a.io is 11 chars
+		// Example: http://a.io is 11 chars
 		if ( url && ( url.length < 11 || ! url.match(/^http(s)?:\/\//) ) ) {
 			return;
 		}
@@ -9010,7 +9010,7 @@ Attachments = View.extend(/** @lends wp.media.view.Attachments.prototype */{
 		 * @param AttachmentView     The view class to be used for models in the
 		 *                           collection.
 		 * @param sortable           A jQuery sortable options object
-		 *                           ( https://api.jqueryui.com/sortable/ ).
+		 *                           ( http://api.jqueryui.com/sortable/ ).
 		 * @param resize             A boolean indicating whether or not to listen to
 		 *                           resize events.
 		 * @param idealColumnWidth   The width in pixels which a column should have when
@@ -10454,7 +10454,7 @@ Embed = Select.extend(/** @lends wp.media.view.Toolbar.Embed.prototype */{
 
 	refresh: function() {
 		var url = this.controller.state().props.get('url');
-		this.get('select').model.set( 'disabled', ! url || url === 'https://' );
+		this.get('select').model.set( 'disabled', ! url || url === 'http://' );
 		/**
 		 * call 'refresh' directly on the parent class
 		 */

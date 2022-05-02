@@ -1,17 +1,17 @@
 /*!
  * jQuery UI Droppable 1.13.1
- * https://jqueryui.com
+ * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
  * Released under the MIT license.
- * https://jquery.org/license
+ * http://jquery.org/license
  */
 
 //>>label: Droppable
 //>>group: Interactions
 //>>description: Enables drop targets for draggable elements.
-//>>docs: https://api.jqueryui.com/droppable/
-//>>demos: https://jqueryui.com/droppable/
+//>>docs: http://api.jqueryui.com/droppable/
+//>>demos: http://jqueryui.com/droppable/
 
 ( function( factory ) {
 	"use strict";

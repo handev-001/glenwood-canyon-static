@@ -1,18 +1,18 @@
 /* eslint-disable max-len, camelcase */
 /*!
  * jQuery UI Datepicker 1.13.1
- * https://jqueryui.com
+ * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
  * Released under the MIT license.
- * https://jquery.org/license
+ * http://jquery.org/license
  */
 
 //>>label: Datepicker
 //>>group: Widgets
 //>>description: Displays a calendar from an input or inline for selecting dates.
-//>>docs: https://api.jqueryui.com/datepicker/
-//>>demos: https://jqueryui.com/datepicker/
+//>>docs: http://api.jqueryui.com/datepicker/
+//>>demos: http://jqueryui.com/datepicker/
 //>>css.structure: ../../themes/base/core.css
 //>>css.structure: ../../themes/base/datepicker.css
 //>>css.theme: ../../themes/base/theme.css
@@ -352,7 +352,7 @@ $.extend( Datepicker.prototype, {
 		}
 
 		// Set display:block in place of inst.dpDiv.show() which won't work on disconnected elements
-		// https://bugs.jqueryui.com/ticket/7552 - A Datepicker created on a detached div has zero height
+		// http://bugs.jqueryui.com/ticket/7552 - A Datepicker created on a detached div has zero height
 		inst.dpDiv.css( "display", "block" );
 	},
 

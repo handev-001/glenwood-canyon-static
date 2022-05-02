@@ -1,17 +1,17 @@
 /*!
  * jQuery UI Sortable 1.13.1
- * https://jqueryui.com
+ * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
  * Released under the MIT license.
- * https://jquery.org/license
+ * http://jquery.org/license
  */
 
 //>>label: Sortable
 //>>group: Interactions
 //>>description: Enables items in a list to be sorted using the mouse.
-//>>docs: https://api.jqueryui.com/sortable/
-//>>demos: https://jqueryui.com/sortable/
+//>>docs: http://api.jqueryui.com/sortable/
+//>>demos: http://jqueryui.com/sortable/
 //>>css.structure: ../../themes/base/sortable.css
 
 ( function( factory ) {

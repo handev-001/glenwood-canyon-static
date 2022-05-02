@@ -1,17 +1,17 @@
 /*!
  * jQuery UI Effects Fold 1.13.1
- * https://jqueryui.com
+ * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
  * Released under the MIT license.
- * https://jquery.org/license
+ * http://jquery.org/license
  */
 
 //>>label: Fold Effect
 //>>group: Effects
 //>>description: Folds an element first horizontally and then vertically.
-//>>docs: https://api.jqueryui.com/fold-effect/
-//>>demos: https://jqueryui.com/effect/
+//>>docs: http://api.jqueryui.com/fold-effect/
+//>>demos: http://jqueryui.com/effect/
 
 ( function( factory ) {
 	"use strict";

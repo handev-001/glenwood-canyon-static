@@ -1,17 +1,17 @@
 /*!
  * jQuery UI Effects Bounce 1.13.1
- * https://jqueryui.com
+ * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
  * Released under the MIT license.
- * https://jquery.org/license
+ * http://jquery.org/license
  */
 
 //>>label: Bounce Effect
 //>>group: Effects
 //>>description: Bounces an element horizontally or vertically n times.
-//>>docs: https://api.jqueryui.com/bounce-effect/
-//>>demos: https://jqueryui.com/effect/
+//>>docs: http://api.jqueryui.com/bounce-effect/
+//>>demos: http://jqueryui.com/effect/
 
 ( function( factory ) {
 	"use strict";

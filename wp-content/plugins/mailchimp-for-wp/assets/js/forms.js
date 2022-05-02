@@ -310,7 +310,7 @@ module.exports = {
 
 },{"./form.js":3}],5:[function(require,module,exports){
 // get successful control from form and assemble into object
-// https://www.w3.org/TR/html401/interact/forms.html#h-17.13.2
+// http://www.w3.org/TR/html401/interact/forms.html#h-17.13.2
 
 // types which indicate a submit action and are not successful controls
 // these will be ignored

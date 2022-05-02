@@ -1,7 +1,7 @@
 /******************************************************************************************************************************
 
  * @ Original idea by by Binny V A, Original version: 2.00.A
- * @ https://www.openjs.com/scripts/events/keyboard_shortcuts/
+ * @ http://www.openjs.com/scripts/events/keyboard_shortcuts/
  * @ Original License : BSD
 
  * @ jQuery Plugin by Tzury Bar Yochay

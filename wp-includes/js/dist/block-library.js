@@ -102,7 +102,7 @@ this["wp"] = this["wp"] || {}; this["wp"]["blockLibrary"] =
  */
 
 const symbol = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M21.3 10.8l-5.6-5.6c-.7-.7-1.8-.7-2.5 0l-5.6 5.6c-.7.7-.7 1.8 0 2.5l5.6 5.6c.3.3.8.5 1.2.5s.9-.2 1.2-.5l5.6-5.6c.8-.7.8-1.9.1-2.5zm-1 1.4l-5.6 5.6c-.1.1-.3.1-.4 0l-5.6-5.6c-.1-.1-.1-.3 0-.4l5.6-5.6s.1-.1.2-.1.1 0 .2.1l5.6 5.6c.1.1.1.3 0 .4zm-16.6-.4L10 5.5l-1-1-6.3 6.3c-.7.7-.7 1.8 0 2.5L9 19.5l1.1-1.1-6.3-6.3c-.2 0-.2-.2-.1-.3z"
@@ -127,7 +127,7 @@ const symbol = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createEle
  */
 
 const footer = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   fillRule: "evenodd",
@@ -161,7 +161,7 @@ const footer = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createEle
 
 const code = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M20.8 10.7l-4.3-4.3-1.1 1.1 4.3 4.3c.1.1.1.3 0 .4l-4.3 4.3 1.1 1.1 4.3-4.3c.7-.8.7-1.9 0-2.6zM4.2 11.8l4.3-4.3-1-1-4.3 4.3c-.7.7-.7 1.8 0 2.5l4.3 4.3 1.1-1.1-4.3-4.3c-.2-.1-.2-.3-.1-.4z"
 }));
@@ -192,7 +192,7 @@ const code = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createEleme
  */
 
 const chevronRight = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M10.6 6L9.4 7l4.6 5-4.6 5 1.2 1 5.4-6z"
@@ -217,7 +217,7 @@ const chevronRight = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["cre
  */
 
 const chevronLeft = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M14.6 7l-1.2-1L8 12l5.4 6 1.2-1-4.6-5z"
@@ -401,7 +401,7 @@ module.exports = memize;
 var __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;/*!
   Copyright (c) 2018 Jed Watson.
   Licensed under the MIT License (MIT), see
-  https://jedwatson.github.io/classnames
+  http://jedwatson.github.io/classnames
 */
 /* global define */
 
@@ -410,7 +410,7 @@ var __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;/*!
 
 	var classNames = (function () {
 		// don't inherit from Object so we can skip hasOwnProperty check later
-		// https://stackoverflow.com/questions/15518328/creating-js-object-with-object-createnull#answer-21079232
+		// http://stackoverflow.com/questions/15518328/creating-js-object-with-object-createnull#answer-21079232
 		function StorageObject() {}
 		StorageObject.prototype = Object.create(null);
 
@@ -534,7 +534,7 @@ var external_wp_primitives_ = __webpack_require__("Tqx9");
  */
 
 const pencil = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M20.1 5.1L16.9 2 6.2 12.7l-1.3 4.4 4.5-1.3L20.1 5.1zM4 20.8h8v-1.5H4v1.5z"
@@ -566,7 +566,7 @@ const pencil = Object(external_wp_element_["createElement"])(external_wp_primiti
  */
 
 const link = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M15.6 7.2H14v1.5h1.6c2 0 3.7 1.7 3.7 3.7s-1.7 3.7-3.7 3.7H14v1.5h1.6c2.8 0 5.2-2.3 5.2-5.2 0-2.9-2.3-5.2-5.2-5.2zM4.7 12.4c0-2 1.7-3.7 3.7-3.7H10V7.2H8.4c-2.9 0-5.2 2.3-5.2 5.2 0 2.9 2.3 5.2 5.2 5.2H10v-1.5H8.4c-2 0-3.7-1.7-3.7-3.7zm4.6.9h5.3v-1.5H9.3v1.5z"
@@ -591,7 +591,7 @@ const link = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createEleme
  */
 
 const layout = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M18 5.5H6a.5.5 0 00-.5.5v3h13V6a.5.5 0 00-.5-.5zm.5 5H10v8h8a.5.5 0 00.5-.5v-7.5zm-10 0h-3V18a.5.5 0 00.5.5h2.5v-8zM6 4h12a2 2 0 012 2v12a2 2 0 01-2 2H6a2 2 0 01-2-2V6a2 2 0 012-2z"
@@ -1035,7 +1035,7 @@ function () {
   }, {
     key: "_isDark",
     value: function _isDark(color) {
-      // https://www.w3.org/TR/AERT#color-contrast
+      // http://www.w3.org/TR/AERT#color-contrast
       var result = (color[0] * 299 + color[1] * 587 + color[2] * 114) / 1000;
       return result < 128;
     }
@@ -1078,7 +1078,7 @@ return FastAverageColor;
  */
 
 const header = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M18.5 10.5H10v8h8a.5.5 0 00.5-.5v-7.5zm-10 0h-3V18a.5.5 0 00.5.5h2.5v-8zM6 4h12a2 2 0 012 2v12a2 2 0 01-2 2H6a2 2 0 01-2-2V6a2 2 0 012-2z"
@@ -1622,7 +1622,7 @@ var external_wp_primitives_ = __webpack_require__("Tqx9");
 
 const archive = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M19 6.2h-5.9l-.6-1.1c-.3-.7-1-1.1-1.8-1.1H5c-1.1 0-2 .9-2 2v11.8c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V8.2c0-1.1-.9-2-2-2zm.5 11.6c0 .3-.2.5-.5.5H5c-.3 0-.5-.2-.5-.5V6c0-.3.2-.5.5-.5h5.8c.2 0 .4.1.4.3l1 2H19c.3 0 .5.2.5.5v9.5zM8 12.8h8v-1.5H8v1.5zm0 3h8v-1.5H8v1.5z"
 }));
@@ -1732,7 +1732,7 @@ const archives_settings = {
 
 const audio = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M17.7 4.3c-1.2 0-2.8 0-3.8 1-.6.6-.9 1.5-.9 2.6V14c-.6-.6-1.5-1-2.5-1C8.6 13 7 14.6 7 16.5S8.6 20 10.5 20c1.5 0 2.8-1 3.3-2.3.5-.8.7-1.8.7-2.5V7.9c0-.7.2-1.2.5-1.6.6-.6 1.8-.6 2.8-.6h.3V4.3h-.4z"
 }));
@@ -4049,7 +4049,7 @@ const button_settings = {
 
 const buttons_buttons = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M17 3H7c-1.1 0-2 .9-2 2v4c0 1.1.9 2 2 2h10c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm.5 6c0 .3-.2.5-.5.5H7c-.3 0-.5-.2-.5-.5V5c0-.3.2-.5.5-.5h10c.3 0 .5.2.5.5v4zm-8-1.2h5V6.2h-5v1.6zM17 13H7c-1.1 0-2 .9-2 2v4c0 1.1.9 2 2 2h10c1.1 0 2-.9 2-2v-4c0-1.1-.9-2-2-2zm.5 6c0 .3-.2.5-.5.5H7c-.3 0-.5-.2-.5-.5v-4c0-.3.2-.5.5-.5h10c.3 0 .5.2.5.5v4zm-8-1.2h5v-1.5h-5v1.5z"
 }));
@@ -4395,7 +4395,7 @@ const buttons_settings = {
 
 const calendar = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm.5 16c0 .3-.2.5-.5.5H5c-.3 0-.5-.2-.5-.5V7h15v12zM9 10H7v2h2v-2zm0 4H7v2h2v-2zm4-4h-2v2h2v-2zm4 0h-2v2h2v-2zm-4 4h-2v2h2v-2zm4 0h-2v2h2v-2z"
 }));
@@ -4548,7 +4548,7 @@ const calendar_settings = {
 
 const category_category = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M6 5.5h3a.5.5 0 01.5.5v3a.5.5 0 01-.5.5H6a.5.5 0 01-.5-.5V6a.5.5 0 01.5-.5zM4 6a2 2 0 012-2h3a2 2 0 012 2v3a2 2 0 01-2 2H6a2 2 0 01-2-2V6zm11-.5h3a.5.5 0 01.5.5v3a.5.5 0 01-.5.5h-3a.5.5 0 01-.5-.5V6a.5.5 0 01.5-.5zM13 6a2 2 0 012-2h3a2 2 0 012 2v3a2 2 0 01-2 2h-3a2 2 0 01-2-2V6zm5 8.5h-3a.5.5 0 00-.5.5v3a.5.5 0 00.5.5h3a.5.5 0 00.5-.5v-3a.5.5 0 00-.5-.5zM15 13a2 2 0 00-2 2v3a2 2 0 002 2h3a2 2 0 002-2v-3a2 2 0 00-2-2h-3zm-9 1.5h3a.5.5 0 01.5.5v3a.5.5 0 01-.5.5H6a.5.5 0 01-.5-.5v-3a.5.5 0 01.5-.5zM4 15a2 2 0 012-2h3a2 2 0 012 2v3a2 2 0 01-2 2H6a2 2 0 01-2-2v-3z",
   fillRule: "evenodd",
@@ -4564,7 +4564,7 @@ const category_category = Object(external_wp_element_["createElement"])(external
  */
 
 const pin = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "-2 -2 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M10.44 3.02l1.82-1.82 6.36 6.35-1.83 1.82c-1.05-.68-2.48-.57-3.41.36l-.75.75c-.92.93-1.04 2.35-.35 3.41l-1.83 1.82-2.41-2.41-2.8 2.79c-.42.42-3.38 2.71-3.8 2.29s1.86-3.39 2.28-3.81l2.79-2.79L4.1 9.36l1.83-1.82c1.05.69 2.48.57 3.4-.36l.75-.75c.93-.92 1.05-2.35.36-3.41z"
@@ -4789,7 +4789,7 @@ const categories_settings = {
 
 const classic = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M20 6H4c-1.1 0-2 .9-2 2v9c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm.5 11c0 .3-.2.5-.5.5H4c-.3 0-.5-.2-.5-.5V8c0-.3.2-.5.5-.5h16c.3 0 .5.2.5.5v9zM10 10H8v2h2v-2zm-5 2h2v-2H5v2zm8-2h-2v2h2v-2zm-5 6h8v-2H8v2zm6-4h2v-2h-2v2zm3 0h2v-2h-2v2zm0 4h2v-2h-2v2zM5 16h2v-2H5v2z"
 }));
@@ -5356,7 +5356,7 @@ const code_settings = {
  */
 
 const column = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M19 6H6c-1.1 0-2 .9-2 2v9c0 1.1.9 2 2 2h13c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zM6 17.5c-.3 0-.5-.2-.5-.5V8c0-.3.2-.5.5-.5h3v10H6zm13.5-.5c0 .3-.2.5-.5.5h-3v-10h3c.3 0 .5.2.5.5v9z"
@@ -5647,7 +5647,7 @@ const column_settings = {
 
 const columns_columns = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M19 6H6c-1.1 0-2 .9-2 2v9c0 1.1.9 2 2 2h13c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm-4.1 1.5v10H10v-10h4.9zM5.5 17V8c0-.3.2-.5.5-.5h2.5v10H6c-.3 0-.5-.2-.5-.5zm14 0c0 .3-.2.5-.5.5h-2.6v-10H19c.3 0 .5.2.5.5v9z"
 }));
@@ -6314,7 +6314,7 @@ const variations_variations = [{
     width: "48",
     height: "48",
     viewBox: "0 0 48 48",
-    xmlns: "https://www.w3.org/2000/svg"
+    xmlns: "http://www.w3.org/2000/svg"
   }, Object(external_wp_element_["createElement"])(external_wp_components_["Path"], {
     fillRule: "evenodd",
     clipRule: "evenodd",
@@ -6330,7 +6330,7 @@ const variations_variations = [{
     width: "48",
     height: "48",
     viewBox: "0 0 48 48",
-    xmlns: "https://www.w3.org/2000/svg"
+    xmlns: "http://www.w3.org/2000/svg"
   }, Object(external_wp_element_["createElement"])(external_wp_components_["Path"], {
     fillRule: "evenodd",
     clipRule: "evenodd",
@@ -6347,7 +6347,7 @@ const variations_variations = [{
     width: "48",
     height: "48",
     viewBox: "0 0 48 48",
-    xmlns: "https://www.w3.org/2000/svg"
+    xmlns: "http://www.w3.org/2000/svg"
   }, Object(external_wp_element_["createElement"])(external_wp_components_["Path"], {
     fillRule: "evenodd",
     clipRule: "evenodd",
@@ -6367,7 +6367,7 @@ const variations_variations = [{
     width: "48",
     height: "48",
     viewBox: "0 0 48 48",
-    xmlns: "https://www.w3.org/2000/svg"
+    xmlns: "http://www.w3.org/2000/svg"
   }, Object(external_wp_element_["createElement"])(external_wp_components_["Path"], {
     fillRule: "evenodd",
     clipRule: "evenodd",
@@ -6387,7 +6387,7 @@ const variations_variations = [{
     width: "48",
     height: "48",
     viewBox: "0 0 48 48",
-    xmlns: "https://www.w3.org/2000/svg"
+    xmlns: "http://www.w3.org/2000/svg"
   }, Object(external_wp_element_["createElement"])(external_wp_components_["Path"], {
     fillRule: "evenodd",
     d: "M41 14a2 2 0 0 0-2-2H9a2 2 0 0 0-2 2v20a2 2 0 0 0 2 2h30a2 2 0 0 0 2-2V14zM28.5 34h-9V14h9v20zm2 0V14H39v20h-8.5zm-13 0H9V14h8.5v20z"
@@ -6402,7 +6402,7 @@ const variations_variations = [{
     width: "48",
     height: "48",
     viewBox: "0 0 48 48",
-    xmlns: "https://www.w3.org/2000/svg"
+    xmlns: "http://www.w3.org/2000/svg"
   }, Object(external_wp_element_["createElement"])(external_wp_components_["Path"], {
     fillRule: "evenodd",
     d: "M41 14a2 2 0 0 0-2-2H9a2 2 0 0 0-2 2v20a2 2 0 0 0 2 2h30a2 2 0 0 0 2-2V14zM31 34H17V14h14v20zm2 0V14h6v20h-6zm-18 0H9V14h6v20z"
@@ -6628,7 +6628,7 @@ const columns_settings = {
  */
 
 const cover = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M18.7 3H5.3C4 3 3 4 3 5.3v13.4C3 20 4 21 5.3 21h13.4c1.3 0 2.3-1 2.3-2.3V5.3C21 4 20 3 18.7 3zm.8 15.7c0 .4-.4.8-.8.8H5.3c-.4 0-.8-.4-.8-.8V5.3c0-.4.4-.8.8-.8h6.2v8.9l2.5-3.1 2.5 3.1V4.5h2.2c.4 0 .8.4.8.8v13.4z"
@@ -8521,32 +8521,32 @@ const EmbedControls = _ref => {
 
 const embedContentIcon = Object(external_wp_element_["createElement"])(external_wp_components_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_components_["Path"], {
   d: "M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm.5 16c0 .3-.2.5-.5.5H5c-.3 0-.5-.2-.5-.5V9.8l4.7-5.3H19c.3 0 .5.2.5.5v14zm-6-9.5L16 12l-2.5 2.8 1.1 1L18 12l-3.5-3.5-1 1zm-3 0l-1-1L6 12l3.5 3.8 1.1-1L8 12l2.5-2.5z"
 }));
 const embedAudioIcon = Object(external_wp_element_["createElement"])(external_wp_components_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_components_["Path"], {
   d: "M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm.5 16c0 .3-.2.5-.5.5H5c-.3 0-.5-.2-.5-.5V9.8l4.7-5.3H19c.3 0 .5.2.5.5v14zM13.2 7.7c-.4.4-.7 1.1-.7 1.9v3.7c-.4-.3-.8-.4-1.3-.4-1.2 0-2.2 1-2.2 2.2 0 1.2 1 2.2 2.2 2.2.5 0 1-.2 1.4-.5.9-.6 1.4-1.6 1.4-2.6V9.6c0-.4.1-.6.2-.8.3-.3 1-.3 1.6-.3h.2V7h-.2c-.7 0-1.8 0-2.6.7z"
 }));
 const embedPhotoIcon = Object(external_wp_element_["createElement"])(external_wp_components_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_components_["Path"], {
   d: "M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zM9.2 4.5H19c.3 0 .5.2.5.5v8.4l-3-2.9c-.3-.3-.8-.3-1 0L11.9 14 9 12c-.3-.2-.6-.2-.8 0l-3.6 2.6V9.8l4.6-5.3zm9.8 15H5c-.3 0-.5-.2-.5-.5v-2.4l4.1-3 3 1.9c.3.2.7.2.9-.1L16 12l3.5 3.4V19c0 .3-.2.5-.5.5z"
 }));
 const embedVideoIcon = Object(external_wp_element_["createElement"])(external_wp_components_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_components_["Path"], {
   d: "M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm.5 16c0 .3-.2.5-.5.5H5c-.3 0-.5-.2-.5-.5V9.8l4.7-5.3H19c.3 0 .5.2.5.5v14zM10 15l5-3-5-3v6z"
 }));
 const embedTwitterIcon = {
   foreground: '#1da1f2',
   src: Object(external_wp_element_["createElement"])(external_wp_components_["SVG"], {
-    xmlns: "https://www.w3.org/2000/svg",
+    xmlns: "http://www.w3.org/2000/svg",
     viewBox: "0 0 24 24"
   }, Object(external_wp_element_["createElement"])(external_wp_components_["G"], null, Object(external_wp_element_["createElement"])(external_wp_components_["Path"], {
     d: "M22.23 5.924c-.736.326-1.527.547-2.357.646.847-.508 1.498-1.312 1.804-2.27-.793.47-1.67.812-2.606.996C18.325 4.498 17.258 4 16.078 4c-2.266 0-4.103 1.837-4.103 4.103 0 .322.036.635.106.935-3.41-.17-6.433-1.804-8.457-4.287-.353.607-.556 1.312-.556 2.064 0 1.424.724 2.68 1.825 3.415-.673-.022-1.305-.207-1.86-.514v.052c0 1.988 1.415 3.647 3.293 4.023-.344.095-.707.145-1.08.145-.265 0-.522-.026-.773-.074.522 1.63 2.038 2.817 3.833 2.85-1.404 1.1-3.174 1.757-5.096 1.757-.332 0-.66-.02-.98-.057 1.816 1.164 3.973 1.843 6.29 1.843 7.547 0 11.675-6.252 11.675-11.675 0-.178-.004-.355-.012-.53.802-.578 1.497-1.3 2.047-2.124z"
@@ -8597,7 +8597,7 @@ const embedFlickrIcon = Object(external_wp_element_["createElement"])(external_w
 const embedVimeoIcon = {
   foreground: '#1ab7ea',
   src: Object(external_wp_element_["createElement"])(external_wp_components_["SVG"], {
-    xmlns: "https://www.w3.org/2000/svg",
+    xmlns: "http://www.w3.org/2000/svg",
     viewBox: "0 0 24 24"
   }, Object(external_wp_element_["createElement"])(external_wp_components_["G"], null, Object(external_wp_element_["createElement"])(external_wp_components_["Path"], {
     d: "M22.396 7.164c-.093 2.026-1.507 4.8-4.245 8.32C15.323 19.16 12.93 21 10.97 21c-1.214 0-2.24-1.12-3.08-3.36-.56-2.052-1.118-4.105-1.68-6.158-.622-2.24-1.29-3.36-2.004-3.36-.156 0-.7.328-1.634.98l-.978-1.26c1.027-.903 2.04-1.806 3.037-2.71C6 3.95 7.03 3.328 7.716 3.265c1.62-.156 2.616.95 2.99 3.32.404 2.558.685 4.148.84 4.77.468 2.12.982 3.18 1.543 3.18.435 0 1.09-.687 1.963-2.064.872-1.376 1.34-2.422 1.402-3.142.125-1.187-.343-1.782-1.4-1.782-.5 0-1.013.115-1.542.34 1.023-3.35 2.977-4.976 5.862-4.883 2.14.063 3.148 1.45 3.024 4.16z"
@@ -9900,7 +9900,7 @@ const embed_settings = {
 
 const file_file = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M19 6.2h-5.9l-.6-1.1c-.3-.7-1-1.1-1.8-1.1H5c-1.1 0-2 .9-2 2v11.8c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V8.2c0-1.1-.9-2-2-2zm.5 11.6c0 .3-.2.5-.5.5H5c-.3 0-.5-.2-.5-.5V6c0-.3.2-.5.5-.5h5.8c.2 0 .4.1.4.3l1 2H19c.3 0 .5.2.5.5v9.5z"
 }));
@@ -10755,7 +10755,7 @@ const file_settings = {
 
 const gallery = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M20.2 8v11c0 .7-.6 1.2-1.2 1.2H6v1.5h13c1.5 0 2.7-1.2 2.7-2.8V8h-1.5zM18 16.4V4.6c0-.9-.7-1.6-1.6-1.6H4.6C3.7 3 3 3.7 3 4.6v11.8c0 .9.7 1.6 1.6 1.6h11.8c.9 0 1.6-.7 1.6-1.6zM4.5 4.6c0-.1.1-.1.1-.1h11.8c.1 0 .1.1.1.1V12l-2.3-1.7c-.3-.2-.6-.2-.9 0l-2.9 2.1L8 11.3c-.2-.1-.5-.1-.7 0l-2.9 1.5V4.6zm0 11.8v-1.8l3.2-1.7 2.4 1.2c.2.1.5.1.8-.1l2.8-2 2.8 2v2.5c0 .1-.1.1-.1.1H4.6c0-.1-.1-.2-.1-.2z"
 }));
@@ -12640,7 +12640,7 @@ const shared_pickRelevantMediaFiles = function (image) {
 
 const image_image = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zM5 4.5h14c.3 0 .5.2.5.5v8.4l-3-2.9c-.3-.3-.8-.3-1 0L11.9 14 9 12c-.3-.2-.6-.2-.8 0l-3.6 2.6V5c-.1-.3.1-.5.4-.5zm14 15H5c-.3 0-.5-.2-.5-.5v-2.4l4.1-3 3 1.9c.3.2.7.2.9-.1L16 12l3.5 3.4V19c0 .3-.2.5-.5.5z"
 }));
@@ -14685,7 +14685,7 @@ const group_settings = {
  */
 
 const heading = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M6.2 5.2v13.4l5.8-4.8 5.8 4.8V5.2z"
@@ -14973,7 +14973,7 @@ function HeadingLevelIcon(_ref) {
     width: "24",
     height: "24",
     viewBox: "0 0 20 20",
-    xmlns: "https://www.w3.org/2000/svg",
+    xmlns: "http://www.w3.org/2000/svg",
     isPressed: isPressed
   }, Object(external_wp_element_["createElement"])(external_wp_components_["Path"], {
     d: levelToPath[level]
@@ -15602,7 +15602,7 @@ const heading_settings = {
 
 const html_html = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M4.8 11.4H2.1V9H1v6h1.1v-2.6h2.7V15h1.1V9H4.8v2.4zm1.9-1.3h1.7V15h1.1v-4.9h1.7V9H6.7v1.1zM16.2 9l-1.5 2.7L13.3 9h-.9l-.8 6h1.1l.5-4 1.5 2.8 1.5-2.8.5 4h1.1L17 9h-.8zm3.8 5V9h-1.1v6h3.6v-1H20z"
 }));
@@ -15960,7 +15960,7 @@ const image_deprecated_deprecated = [{
  */
 
 const crop = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M16.5 7.8v7H18v-7c0-1-.8-1.8-1.8-1.8h-7v1.5h7c.2 0 .3.1.3.3zm-8.7 8.7c-.1 0-.2-.1-.2-.2V2H6v4H2v1.5h4v8.8c0 1 .8 1.8 1.8 1.8h8.8v4H18v-4h4v-1.5H7.8z"
@@ -15978,7 +15978,7 @@ var upload = __webpack_require__("NTP4");
  */
 
 const overlayText = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M18 4H6c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12-9.8c.4 0 .8-.3.9-.7l1.1-3h3.6l.5 1.7h1.9L13 9h-2.2l-3.4 9.5H6c-.3 0-.5-.2-.5-.5V6c0-.3.2-.5.5-.5h12c.3 0 .5.2.5.5v12H20V6c0-1.1-.9-2-2-2zm-6 7l1.4 3.9h-2.7L12 11z"
@@ -17298,7 +17298,7 @@ const image_settings = {
 
 const comment_comment = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M18 4H6c-1.1 0-2 .9-2 2v12.9c0 .6.5 1.1 1.1 1.1.3 0 .5-.1.8-.3L8.5 17H18c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm.5 11c0 .3-.2.5-.5.5H7.9l-2.4 2.4V6c0-.3.2-.5.5-.5h12c.3 0 .5.2.5.5v9z"
 }));
@@ -17444,7 +17444,7 @@ const latest_comments_settings = {
 
 const postList = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M18 4H6c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm.5 14c0 .3-.2.5-.5.5H6c-.3 0-.5-.2-.5-.5V6c0-.3.2-.5.5-.5h12c.3 0 .5.2.5.5v12zM7 11h2V9H7v2zm0 4h2v-2H7v2zm3-4h7V9h-7v2zm0 4h7v-2h-7v2z"
 }));
@@ -17586,7 +17586,7 @@ var external_wp_date_ = __webpack_require__("FqII");
 
 const list = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M4 4v1.5h16V4H4zm8 8.5h8V11h-8v1.5zM4 20h16v-1.5H4V20zm4-8c0-1.1-.9-2-2-2s-2 .9-2 2 .9 2 2 2 2-.9 2-2z"
 }));
@@ -18205,7 +18205,7 @@ const list_deprecated_v1 = {
  */
 
 const formatListBulletsRTL = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M4 8.8h8.9V7.2H4v1.6zm0 7h8.9v-1.5H4v1.5zM18 13c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0-3c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2z"
@@ -18220,7 +18220,7 @@ const formatListBulletsRTL = Object(external_wp_element_["createElement"])(exter
  */
 
 const formatListBullets = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M11.1 15.8H20v-1.5h-8.9v1.5zm0-8.6v1.5H20V7.2h-8.9zM6 13c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0-7c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"
@@ -18235,7 +18235,7 @@ const formatListBullets = Object(external_wp_element_["createElement"])(external
  */
 
 const formatListNumberedRTL = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M3.8 15.8h8.9v-1.5H3.8v1.5zm0-7h8.9V7.2H3.8v1.6zm14.7-2.1V10h1V5.3l-2.2.7.3 1 .9-.3zm1.2 6.1c-.5-.6-1.2-.5-1.7-.4-.3.1-.5.2-.7.3l.1 1.1c.2-.2.5-.4.8-.5.3-.1.6 0 .7.1.2.3 0 .8-.2 1.1-.5.8-.9 1.6-1.4 2.5H20v-1h-.9c.3-.6.8-1.4.9-2.1 0-.3 0-.8-.3-1.1z"
@@ -18250,7 +18250,7 @@ const formatListNumberedRTL = Object(external_wp_element_["createElement"])(exte
  */
 
 const formatListNumbered = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M11.1 15.8H20v-1.5h-8.9v1.5zm0-8.6v1.5H20V7.2h-8.9zM5 6.7V10h1V5.3L3.8 6l.4 1 .8-.3zm-.4 5.7c-.3.1-.5.2-.7.3l.1 1.1c.2-.2.5-.4.8-.5.3-.1.6 0 .7.1.2.3 0 .8-.2 1.1-.5.8-.9 1.6-1.4 2.5h2.7v-1h-1c.3-.6.8-1.4.9-2.1.1-.3 0-.8-.2-1.1-.5-.6-1.3-.5-1.7-.4z"
@@ -18265,7 +18265,7 @@ const formatListNumbered = Object(external_wp_element_["createElement"])(externa
  */
 
 const formatOutdentRTL = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M20 5.5H4V4H20V5.5ZM12 12.5H4V11H12V12.5ZM20 20V18.5H4V20H20ZM15.4697 14.9697L18.4393 12L15.4697 9.03033L16.5303 7.96967L20.0303 11.4697L20.5607 12L20.0303 12.5303L16.5303 16.0303L15.4697 14.9697Z"
@@ -18280,7 +18280,7 @@ const formatOutdentRTL = Object(external_wp_element_["createElement"])(external_
  */
 
 const formatOutdent = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M4 7.2v1.5h16V7.2H4zm8 8.6h8v-1.5h-8v1.5zm-4-4.6l-4 4 4 4 1-1-3-3 3-3-1-1z"
@@ -18295,7 +18295,7 @@ const formatOutdent = Object(external_wp_element_["createElement"])(external_wp_
  */
 
 const formatIndentRTL = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M20 5.5H4V4H20V5.5ZM12 12.5H4V11H12V12.5ZM20 20V18.5H4V20H20ZM20.0303 9.03033L17.0607 12L20.0303 14.9697L18.9697 16.0303L15.4697 12.5303L14.9393 12L15.4697 11.4697L18.9697 7.96967L20.0303 9.03033Z"
@@ -18310,7 +18310,7 @@ const formatIndentRTL = Object(external_wp_element_["createElement"])(external_w
  */
 
 const formatIndent = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M4 7.2v1.5h16V7.2H4zm8 8.6h8v-1.5h-8v1.5zm-8-3.5l3 3-3 3 1 1 4-4-4-4-1 1z"
@@ -18886,7 +18886,7 @@ const list_settings = {
  */
 
 const login = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M11 14.5l1.1 1.1 3-3 .5-.5-.6-.6-3-3-1 1 1.7 1.7H5v1.5h7.7L11 14.5zM16.8 5h-7c-1.1 0-2 .9-2 2v1.5h1.5V7c0-.3.2-.5.5-.5h7c.3 0 .5.2.5.5v10c0 .3-.2.5-.5.5h-7c-.3 0-.5-.2-.5-.5v-1.5H7.8V17c0 1.1.9 2 2 2h7c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2z"
@@ -18984,7 +18984,7 @@ const loginout_settings = {
  */
 
 const mediaAndText = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M3 18h8V6H3v12zM14 7.5V9h7V7.5h-7zm0 5.3h7v-1.5h-7v1.5zm0 3.7h7V15h-7v1.5z"
@@ -18999,7 +18999,7 @@ const mediaAndText = Object(external_wp_element_["createElement"])(external_wp_p
  */
 
 /* harmony default export */ var media_container_icon = (Object(external_wp_element_["createElement"])(external_wp_components_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_components_["Path"], {
   d: "M18 2l2 4h-2l-2-4h-3l2 4h-2l-2-4h-1a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V2zm2 12H10V4.4L11.8 8H20z"
@@ -19535,7 +19535,7 @@ const baseAttributes = {
  */
 
 const pullLeft = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M4 18h6V6H4v12zm9-9.5V10h7V8.5h-7zm0 7h7V14h-7v1.5z"
@@ -19550,7 +19550,7 @@ const pullLeft = Object(external_wp_element_["createElement"])(external_wp_primi
  */
 
 const pullRight = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M14 6v12h6V6h-6zM4 10h7V8.5H4V10zm0 5.5h7V14H4v1.5z"
@@ -20379,7 +20379,7 @@ const missing_settings = {
 
 const more = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M4 9v1.5h16V9H4zm12 5.5h4V13h-4v1.5zm-6 0h4V13h-4v1.5zm-6 0h4V13H4v1.5z"
 }));
@@ -20583,7 +20583,7 @@ const more_settings = {
 
 const navigation = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M12 4c-4.4 0-8 3.6-8 8s3.6 8 8 8 8-3.6 8-8-3.6-8-8-8zm0 14.5c-3.6 0-6.5-2.9-6.5-6.5S8.4 5.5 12 5.5s6.5 2.9 6.5 6.5-2.9 6.5-6.5 6.5zM9 16l4.5-3L15 8.4l-4.5 3L9 16z"
 }));
@@ -21487,7 +21487,7 @@ function ResponsiveWrapper(_ref) {
     className: openButtonClasses,
     onClick: () => onToggle(true)
   }, Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-    xmlns: "https://www.w3.org/2000/svg",
+    xmlns: "http://www.w3.org/2000/svg",
     viewBox: "0 0 24 24",
     width: "24",
     height: "24",
@@ -23154,7 +23154,7 @@ const customLink = Object(external_wp_element_["createElement"])(external_wp_pri
  */
 
 const addSubmenu = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M2 12c0 3.6 2.4 5.5 6 5.5h.5V19l3-2.5-3-2.5v2H8c-2.5 0-4.5-1.5-4.5-4s2-4.5 4.5-4.5h3.5V6H8c-3.6 0-6 2.4-6 6zm19.5-1h-8v1.5h8V11zm0 5h-8v1.5h8V16zm0-10h-8v1.5h8V6z"
@@ -23918,7 +23918,7 @@ function navigation_link_save_save() {
 
 const postTitle = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M4 14.5h16V16H4zM4 18.5h9V20H4zM4 4h3c2 0 3 .86 3 2.583 0 .891-.253 1.554-.76 1.988-.505.435-1.24.652-2.204.652H5.542V12H4V4zm2.855 4c.53 0 .924-.114 1.18-.343.266-.228.398-.579.398-1.051 0-.473-.132-.82-.397-1.04-.265-.229-.67-.343-1.217-.343H5.542V8h1.313z"
 }));
@@ -23932,7 +23932,7 @@ const postTitle = Object(external_wp_element_["createElement"])(external_wp_prim
  */
 
 const page_page = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M7 5.5h10a.5.5 0 01.5.5v12a.5.5 0 01-.5.5H7a.5.5 0 01-.5-.5V6a.5.5 0 01.5-.5zM17 4H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V6a2 2 0 00-2-2zm-1 3.75H8v1.5h8v-1.5zM8 11h8v1.5H8V11zm6 3.25H8v1.5h6v-1.5z"
@@ -23947,7 +23947,7 @@ const page_page = Object(external_wp_element_["createElement"])(external_wp_prim
  */
 
 const tag_tag = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M20.1 11.2l-6.7-6.7c-.1-.1-.3-.2-.5-.2H5c-.4-.1-.8.3-.8.7v7.8c0 .2.1.4.2.5l6.7 6.7c.2.2.5.4.7.5s.6.2.9.2c.3 0 .6-.1.9-.2.3-.1.5-.3.8-.5l5.6-5.6c.4-.4.7-1 .7-1.6.1-.6-.2-1.2-.6-1.6zM19 13.4L13.4 19c-.1.1-.2.1-.3.2-.2.1-.4.1-.6 0-.1 0-.2-.1-.3-.2l-6.5-6.5V5.8h6.8l6.5 6.5c.2.2.2.4.2.6 0 .1 0 .3-.2.5zM9 8c-.6 0-1 .4-1 1s.4 1 1 1 1-.4 1-1-.4-1-1-1z"
@@ -23962,7 +23962,7 @@ const tag_tag = Object(external_wp_element_["createElement"])(external_wp_primit
  */
 
 const customPostType = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M4 20h9v-1.5H4V20zm0-5.5V16h16v-1.5H4zm.8-4l.7.7 2-2V12h1V9.2l2 2 .7-.7-2-2H12v-1H9.2l2-2-.7-.7-2 2V4h-1v2.8l-2-2-.7.7 2 2H4v1h2.8l-2 2z"
@@ -24341,7 +24341,7 @@ var external_wp_a11y_ = __webpack_require__("gdqT");
  */
 
 const ItemSubmenuIcon = () => Object(external_wp_element_["createElement"])(external_wp_components_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   width: "12",
   height: "12",
   viewBox: "0 0 12 12",
@@ -25159,7 +25159,7 @@ const navigation_submenu_settings = {
  */
 
 const pageBreak = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M7.8 6c0-.7.6-1.2 1.2-1.2h6c.7 0 1.2.6 1.2 1.2v3h1.5V6c0-1.5-1.2-2.8-2.8-2.8H9C7.5 3.2 6.2 4.5 6.2 6v3h1.5V6zm8.4 11c0 .7-.6 1.2-1.2 1.2H9c-.7 0-1.2-.6-1.2-1.2v-3H6.2v3c0 1.5 1.2 2.8 2.8 2.8h6c1.5 0 2.8-1.2 2.8-2.8v-3h-1.5v3zM4 11v1h16v-1H4z"
@@ -25329,7 +25329,7 @@ const pattern_settings = {
  */
 
 const pages_pages = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M7 13.8h6v-1.5H7v1.5zM18 16V4c0-1.1-.9-2-2-2H6c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h10c1.1 0 2-.9 2-2zM5.5 16V4c0-.3.2-.5.5-.5h10c.3 0 .5.2.5.5v12c0 .3-.2.5-.5.5H6c-.3 0-.5-.2-.5-.5zM7 10.5h8V9H7v1.5zm0-3.3h8V5.8H7v1.4zM20.2 6v13c0 .7-.6 1.2-1.2 1.2H8v1.5h11c1.5 0 2.7-1.2 2.7-2.8V6h-1.5z"
@@ -25484,7 +25484,7 @@ function ConvertToLinksModal(_ref3) {
  */
 
 const icons_ItemSubmenuIcon = () => Object(external_wp_element_["createElement"])(external_wp_components_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   width: "12",
   height: "12",
   viewBox: "0 0 12 12",
@@ -25735,7 +25735,7 @@ const page_list_settings = {
  */
 
 const paragraph = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M18.3 4H9.9v-.1l-.9.2c-2.3.4-4 2.4-4 4.8s1.7 4.4 4 4.8l.7.1V20h1.5V5.5h2.9V20h1.5V5.5h2.7V4z"
@@ -26075,7 +26075,7 @@ const paragraph_deprecated_deprecated = [{
  */
 
 const formatLtr = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "-2 -2 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M5.52 2h7.43c.55 0 1 .45 1 1s-.45 1-1 1h-1v13c0 .55-.45 1-1 1s-1-.45-1-1V5c0-.55-.45-1-1-1s-1 .45-1 1v12c0 .55-.45 1-1 1s-1-.45-1-1v-5.96h-.43C3.02 11.04 1 9.02 1 6.52S3.02 2 5.52 2zM14 14l5-4-5-4v8z"
@@ -26620,7 +26620,7 @@ function PostAuthorEdit(_ref) {
 
 const postAuthor = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M10 4.5a1 1 0 11-2 0 1 1 0 012 0zm1.5 0a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm2.25 7.5v-1A2.75 2.75 0 0011 8.25H7A2.75 2.75 0 004.25 11v1h1.5v-1c0-.69.56-1.25 1.25-1.25h4c.69 0 1.25.56 1.25 1.25v1h1.5zM4 20h9v-1.5H4V20zm16-4H4v-1.5h16V16z",
   fillRule: "evenodd",
@@ -26708,7 +26708,7 @@ const post_author_settings = {
  */
 
 const postComments = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M14 10.1V4c0-.6-.4-1-1-1H5c-.6 0-1 .4-1 1v8.3c0 .3.2.7.6.8.1.1.2.1.3.1.2 0 .5-.1.6-.3l1.8-1.8H13c.6 0 1-.4 1-1zm-1.5-.5H6.7l-1.2 1.2V4.5h7v5.1zM19 12h-8c-.6 0-1 .4-1 1v6.1c0 .6.4 1 1 1h5.7l1.8 1.8c.1.2.4.3.6.3.1 0 .2 0 .3-.1.4-.1.6-.5.6-.8V13c0-.6-.4-1-1-1zm-.5 7.8l-1.2-1.2h-5.8v-5.1h7v6.3z"
@@ -27031,7 +27031,7 @@ const post_content_settings = {
  */
 
 const post_date_postDate = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M11.696 13.972c.356-.546.599-.958.728-1.235a1.79 1.79 0 00.203-.783c0-.264-.077-.47-.23-.618-.148-.153-.354-.23-.618-.23-.295 0-.569.07-.82.212a3.413 3.413 0 00-.738.571l-.147-1.188c.289-.234.59-.41.903-.526.313-.117.66-.175 1.041-.175.375 0 .695.08.959.24.264.153.46.362.59.626.135.265.203.556.203.876 0 .362-.08.734-.24 1.115-.154.381-.427.87-.82 1.466l-.756 1.152H14v1.106h-4l1.696-2.609z"
@@ -27305,7 +27305,7 @@ const post_date_settings = {
  */
 
 const post_excerpt_postExcerpt = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M12.75 9.333c0 .521-.102.977-.327 1.354-.23.386-.555.628-.893.774-.545.234-1.183.227-1.544.222l-.12-.001v-1.5h.123c.414.001.715.002.948-.099a.395.395 0 00.199-.166c.05-.083.114-.253.114-.584V7.2H8.8V4h3.95v5.333zM7.95 9.333c0 .521-.102.977-.327 1.354-.23.386-.555.628-.893.774-.545.234-1.183.227-1.544.222l-.12-.001v-1.5h.123c.414.001.715.002.948-.099a.394.394 0 00.198-.166c.05-.083.115-.253.115-.584V7.2H4V4h3.95v5.333zM13 20H4v-1.5h9V20zM20 16H4v-1.5h16V16z"
@@ -27489,7 +27489,7 @@ const post_excerpt_settings = {
  */
 
 const postFeaturedImage = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M19 3H5c-.6 0-1 .4-1 1v7c0 .5.4 1 1 1h14c.5 0 1-.4 1-1V4c0-.6-.4-1-1-1zM5.5 10.5v-.4l1.8-1.3 1.3.8c.3.2.7.2.9-.1L11 8.1l2.4 2.4H5.5zm13 0h-2.9l-4-4c-.3-.3-.8-.3-1.1 0L8.9 8l-1.2-.8c-.3-.2-.6-.2-.9 0l-1.3 1V4.5h13v6zM4 20h9v-1.5H4V20zm0-4h16v-1.5H4V16z"
@@ -27639,7 +27639,7 @@ const DimensionControls = _ref => {
 const placeholderIllustration = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
   className: "components-placeholder__illustration",
   fill: "none",
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 60 60",
   preserveAspectRatio: "none"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
@@ -27923,7 +27923,7 @@ function PostNavigationLinkEdit(_ref) {
  */
 
 const next = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M6.6 6L5.4 7l4.5 5-4.5 5 1.1 1 5.5-6-5.4-6zm6 0l-1.1 1 4.5 5-4.5 5 1.1 1 5.5-6-5.5-6z"
@@ -27938,7 +27938,7 @@ const next = Object(external_wp_element_["createElement"])(external_wp_primitive
  */
 
 const previous = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M11.6 7l-1.1-1L5 12l5.5 6 1.1-1L7 12l4.6-5zm6 0l-1.1-1-5.5 6 5.5 6 1.1-1-4.6-5 4.6-5z"
@@ -28452,7 +28452,7 @@ function PostTermsEdit(_ref) {
 
 const postCategories = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M20 4H4v1.5h16V4zm-2 9h-3c-1.1 0-2 .9-2 2v3c0 1.1.9 2 2 2h3c1.1 0 2-.9 2-2v-3c0-1.1-.9-2-2-2zm.5 5c0 .3-.2.5-.5.5h-3c-.3 0-.5-.2-.5-.5v-3c0-.3.2-.5.5-.5h3c.3 0 .5.2.5.5v3zM4 9.5h9V8H4v1.5zM9 13H6c-1.1 0-2 .9-2 2v3c0 1.1.9 2 2 2h3c1.1 0 2-.9 2-2v-3c0-1.1-.9-2-2-2zm.5 5c0 .3-.2.5-.5.5H6c-.3 0-.5-.2-.5-.5v-3c0-.3.2-.5.5-.5h3c.3 0 .5.2.5.5v3z",
   fillRule: "evenodd",
@@ -28825,7 +28825,7 @@ const post_title_settings = {
 
 const preformatted = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M18 4H6c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm.5 14c0 .3-.2.5-.5.5H6c-.3 0-.5-.2-.5-.5V6c0-.3.2-.5.5-.5h12c.3 0 .5.2.5.5v12zM7 16.5h6V15H7v1.5zm4-4h6V11h-6v1.5zM9 11H7v1.5h2V11zm6 5.5h2V15h-2v1.5z"
 }));
@@ -29022,7 +29022,7 @@ const preformatted_settings = {
 
 const pullquote = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M18 8H6c-1.1 0-2 .9-2 2v4c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2v-4c0-1.1-.9-2-2-2zm.5 6c0 .3-.2.5-.5.5H6c-.3 0-.5-.2-.5-.5v-4c0-.3.2-.5.5-.5h12c.3 0 .5.2.5.5v4zM4 4v1.5h16V4H4zm0 16h16v-1.5H4V20z"
 }));
@@ -29844,7 +29844,7 @@ const pullquote_settings = {
 
 const loop_loop = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M18.1823 11.6392C18.1823 13.0804 17.0139 14.2487 15.5727 14.2487C14.3579 14.2487 13.335 13.4179 13.0453 12.2922L13.0377 12.2625L13.0278 12.2335L12.3985 10.377L12.3942 10.3785C11.8571 8.64997 10.246 7.39405 8.33961 7.39405C5.99509 7.39405 4.09448 9.29465 4.09448 11.6392C4.09448 13.9837 5.99509 15.8843 8.33961 15.8843C8.88499 15.8843 9.40822 15.781 9.88943 15.5923L9.29212 14.0697C8.99812 14.185 8.67729 14.2487 8.33961 14.2487C6.89838 14.2487 5.73003 13.0804 5.73003 11.6392C5.73003 10.1979 6.89838 9.02959 8.33961 9.02959C9.55444 9.02959 10.5773 9.86046 10.867 10.9862L10.8772 10.9836L11.4695 12.7311C11.9515 14.546 13.6048 15.8843 15.5727 15.8843C17.9172 15.8843 19.8178 13.9837 19.8178 11.6392C19.8178 9.29465 17.9172 7.39404 15.5727 7.39404C15.0287 7.39404 14.5066 7.4968 14.0264 7.6847L14.6223 9.20781C14.9158 9.093 15.2358 9.02959 15.5727 9.02959C17.0139 9.02959 18.1823 10.1979 18.1823 11.6392Z"
 }));
@@ -30653,25 +30653,25 @@ function QuerySave(_ref) {
  */
 
 const titleDate = Object(external_wp_element_["createElement"])(external_wp_components_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 48 48"
 }, Object(external_wp_element_["createElement"])(external_wp_components_["Path"], {
   d: "M41 9H7v3h34V9zm-22 5H7v1h12v-1zM7 26h12v1H7v-1zm34-5H7v3h34v-3zM7 38h12v1H7v-1zm34-5H7v3h34v-3z"
 }));
 const titleExcerpt = Object(external_wp_element_["createElement"])(external_wp_components_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 48 48"
 }, Object(external_wp_element_["createElement"])(external_wp_components_["Path"], {
   d: "M41 9H7v3h34V9zm-4 5H7v1h30v-1zm4 3H7v1h34v-1zM7 20h30v1H7v-1zm0 12h30v1H7v-1zm34 3H7v1h34v-1zM7 38h30v1H7v-1zm34-11H7v3h34v-3z"
 }));
 const titleDateExcerpt = Object(external_wp_element_["createElement"])(external_wp_components_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 48 48"
 }, Object(external_wp_element_["createElement"])(external_wp_components_["Path"], {
   d: "M41 9H7v3h34V9zm-22 5H7v1h12v-1zm22 3H7v1h34v-1zM7 20h34v1H7v-1zm0 12h12v1H7v-1zm34 3H7v1h34v-1zM7 38h34v1H7v-1zm34-11H7v3h34v-3z"
 }));
 const imageDateTitle = Object(external_wp_element_["createElement"])(external_wp_components_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 48 48"
 }, Object(external_wp_element_["createElement"])(external_wp_components_["Path"], {
   d: "M7 9h34v6H7V9zm12 8H7v1h12v-1zm18 3H7v1h30v-1zm0 18H7v1h30v-1zM7 35h12v1H7v-1zm34-8H7v6h34v-6z"
@@ -30976,7 +30976,7 @@ Object(external_wp_hooks_["addFilter"])('editor.BlockEdit', 'core/query', query_
  */
 
 const queryPagination = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Rect"], {
   x: "4",
@@ -31194,7 +31194,7 @@ const query_pagination_settings = {
  */
 
 const queryPaginationNext = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Rect"], {
   x: "6",
@@ -31320,7 +31320,7 @@ const query_pagination_next_settings = {
  */
 
 const queryPaginationNumbers = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Rect"], {
   x: "4",
@@ -31403,7 +31403,7 @@ const query_pagination_numbers_settings = {
  */
 
 const queryPaginationPrevious = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Rect"], {
   x: "18",
@@ -31597,7 +31597,7 @@ function QueryTitleEdit(_ref) {
 
 const archiveTitle = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   stroke: "#1E1E1E",
   strokeWidth: "1.5",
@@ -31770,7 +31770,7 @@ const query_title_settings = {
 
 const quote = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M13 6v6h5.2v4c0 .8-.2 1.4-.5 1.7-.6.6-1.6.6-2.5.5h-.3v1.5h.5c1 0 2.3-.1 3.3-1 .6-.6 1-1.6 1-2.8V6H13zm-9 6h5.2v4c0 .8-.2 1.4-.5 1.7-.6.6-1.6.6-2.5.5h-.3v1.5h.5c1 0 2.3-.1 3.3-1 .6-.6 1-1.6 1-2.8V6H4v6z"
 }));
@@ -32381,7 +32381,7 @@ var external_wp_reusableBlocks_ = __webpack_require__("diJD");
  */
 
 const ungroup = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M18 4h-7c-1.1 0-2 .9-2 2v7c0 1.1.9 2 2 2h7c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm.5 9c0 .3-.2.5-.5.5h-7c-.3 0-.5-.2-.5-.5V6c0-.3.2-.5.5-.5h7c.3 0 .5.2.5.5v7zm-5 5c0 .3-.2.5-.5.5H6c-.3 0-.5-.2-.5-.5v-7c0-.3.2-.5.5-.5h1V9H6c-1.1 0-2 .9-2 2v7c0 1.1.9 2 2 2h7c1.1 0 2-.9 2-2v-1h-1.5v1z"
@@ -32509,7 +32509,7 @@ const block_settings = {
  */
 
 const rss = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M5 10.2h-.8v1.5H5c1.9 0 3.8.8 5.1 2.1 1.4 1.4 2.1 3.2 2.1 5.1v.8h1.5V19c0-2.3-.9-4.5-2.6-6.2-1.6-1.6-3.8-2.6-6.1-2.6zm10.4-1.6C12.6 5.8 8.9 4.2 5 4.2h-.8v1.5H5c3.5 0 6.9 1.4 9.4 3.9s3.9 5.8 3.9 9.4v.8h1.5V19c0-3.9-1.6-7.6-4.4-10.4zM4 20h3v-3H4v3z"
@@ -32735,7 +32735,7 @@ const rss_settings = {
  */
 
 const buttonOnly = Object(external_wp_element_["createElement"])(external_wp_components_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_components_["Rect"], {
   x: "7",
@@ -32746,7 +32746,7 @@ const buttonOnly = Object(external_wp_element_["createElement"])(external_wp_com
   fill: "currentColor"
 }));
 const buttonOutside = Object(external_wp_element_["createElement"])(external_wp_components_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_components_["Rect"], {
   x: "4.75",
@@ -32766,7 +32766,7 @@ const buttonOutside = Object(external_wp_element_["createElement"])(external_wp_
   fill: "currentColor"
 }));
 const buttonInside = Object(external_wp_element_["createElement"])(external_wp_components_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_components_["Rect"], {
   x: "4.75",
@@ -32786,7 +32786,7 @@ const buttonInside = Object(external_wp_element_["createElement"])(external_wp_c
   fill: "currentColor"
 }));
 const noButton = Object(external_wp_element_["createElement"])(external_wp_components_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_components_["Rect"], {
   x: "4.75",
@@ -32799,7 +32799,7 @@ const noButton = Object(external_wp_element_["createElement"])(external_wp_compo
   strokeWidth: "1.5"
 }));
 const buttonWithIcon = Object(external_wp_element_["createElement"])(external_wp_components_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_components_["Rect"], {
   x: "4.75",
@@ -32818,7 +32818,7 @@ const buttonWithIcon = Object(external_wp_element_["createElement"])(external_wp
   fill: "currentColor"
 }));
 const toggleLabel = Object(external_wp_element_["createElement"])(external_wp_components_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_components_["Rect"], {
   x: "4.75",
@@ -33310,7 +33310,7 @@ const search_settings = {
 
 const separator_separator = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M20.2 7v4H3.8V7H2.2v9h1.6v-3.5h16.4V16h1.6V7z"
 }));
@@ -33521,7 +33521,7 @@ const build_module_separator_settings = {
 
 const shortcode = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M16 4.2v1.5h2.5v12.5H16v1.5h4V4.2h-4zM4.2 19.8h4v-1.5H5.8V5.8h2.5V4.2h-4l-.1 15.6zm5.1-3.1l1.4.6 4-10-1.4-.6-4 10z"
 }));
@@ -33663,7 +33663,7 @@ const shortcode_settings = {
  */
 
 const siteLogo = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M12 3c-5 0-9 4-9 9s4 9 9 9 9-4 9-9-4-9-9-9zm0 1.5c4.1 0 7.5 3.4 7.5 7.5v.1c-1.4-.8-3.3-1.7-3.4-1.8-.2-.1-.5-.1-.8.1l-2.9 2.1L9 11.3c-.2-.1-.4 0-.6.1l-3.7 2.2c-.1-.5-.2-1-.2-1.5 0-4.2 3.4-7.6 7.5-7.6zm0 15c-3.1 0-5.7-1.9-6.9-4.5l3.7-2.2 3.5 1.2c.2.1.5 0 .7-.1l2.9-2.1c.8.4 2.5 1.2 3.5 1.9-.9 3.3-3.9 5.8-7.4 5.8z"
@@ -34154,7 +34154,7 @@ function LogoEdit(_ref2) {
     }, Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
       className: "components-placeholder__illustration",
       fill: "none",
-      xmlns: "https://www.w3.org/2000/svg",
+      xmlns: "http://www.w3.org/2000/svg",
       viewBox: "0 0 60 60"
     }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
       vectorEffect: "non-scaling-stroke",
@@ -34341,7 +34341,7 @@ function SiteTaglineEdit(_ref) {
  */
 
 /* harmony default export */ var site_tagline_icon = (Object(external_wp_element_["createElement"])(external_wp_components_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   width: "24",
   height: "24"
 }, Object(external_wp_element_["createElement"])(external_wp_components_["Path"], {
@@ -34506,7 +34506,7 @@ function LevelIcon(_ref) {
     width: "20",
     height: "20",
     viewBox: "0 0 20 20",
-    xmlns: "https://www.w3.org/2000/svg",
+    xmlns: "http://www.w3.org/2000/svg",
     isPressed: isPressed
   }, Object(external_wp_element_["createElement"])(external_wp_components_["Path"], {
     d: levelToPath[level]
@@ -34814,7 +34814,7 @@ const site_title_settings = {
 
 const share = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M9 11.8l6.1-4.5c.1.4.4.7.9.7h2c.6 0 1-.4 1-1V5c0-.6-.4-1-1-1h-2c-.6 0-1 .4-1 1v.4l-6.4 4.8c-.2-.1-.4-.2-.6-.2H6c-.6 0-1 .4-1 1v2c0 .6.4 1 1 1h2c.2 0 .4-.1.6-.2l6.4 4.8v.4c0 .6.4 1 1 1h2c.6 0 1-.4 1-1v-2c0-.6-.4-1-1-1h-2c-.5 0-.8.3-.9.7L9 12.2v-.4z"
 }));
@@ -34835,7 +34835,7 @@ const WordPressIcon = () => Object(external_wp_element_["createElement"])(extern
   height: "24",
   viewBox: "0 0 24 24",
   version: "1.1",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M12.158,12.786L9.46,20.625c0.806,0.237,1.657,0.366,2.54,0.366c1.047,0,2.051-0.181,2.986-0.51 c-0.024-0.038-0.046-0.079-0.065-0.124L12.158,12.786z M3.009,12c0,3.559,2.068,6.634,5.067,8.092L3.788,8.341 C3.289,9.459,3.009,10.696,3.009,12z M18.069,11.546c0-1.112-0.399-1.881-0.741-2.48c-0.456-0.741-0.883-1.368-0.883-2.109 c0-0.826,0.627-1.596,1.51-1.596c0.04,0,0.078,0.005,0.116,0.007C16.472,3.904,14.34,3.009,12,3.009 c-3.141,0-5.904,1.612-7.512,4.052c0.211,0.007,0.41,0.011,0.579,0.011c0.94,0,2.396-0.114,2.396-0.114 C7.947,6.93,8.004,7.642,7.52,7.699c0,0-0.487,0.057-1.029,0.085l3.274,9.739l1.968-5.901l-1.401-3.838 C9.848,7.756,9.389,7.699,9.389,7.699C8.904,7.67,8.961,6.93,9.446,6.958c0,0,1.484,0.114,2.368,0.114 c0.94,0,2.397-0.114,2.397-0.114c0.485-0.028,0.542,0.684,0.057,0.741c0,0-0.488,0.057-1.029,0.085l3.249,9.665l0.897-2.996 C17.841,13.284,18.069,12.316,18.069,11.546z M19.889,7.686c0.039,0.286,0.06,0.593,0.06,0.924c0,0.912-0.171,1.938-0.684,3.22 l-2.746,7.94c2.673-1.558,4.47-4.454,4.47-7.771C20.991,10.436,20.591,8.967,19.889,7.686z M12,22C6.486,22,2,17.514,2,12 C2,6.486,6.486,2,12,2c5.514,0,10,4.486,10,10C22,17.514,17.514,22,12,22z"
 }));
@@ -36477,7 +36477,7 @@ const social_links_settings = {
 
 const resizeCornerNE = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M12.5 4.2v1.6h4.7L5.8 17.2V12H4.2v7.8H12v-1.6H6.8L18.2 6.8v4.7h1.6V4.2z"
 }));
@@ -36902,7 +36902,7 @@ const spacer_settings = {
 
 const blockTable = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zM5 4.5h14c.3 0 .5.2.5.5v3.5h-15V5c0-.3.2-.5.5-.5zm8 5.5h6.5v3.5H13V10zm-1.5 3.5h-7V10h7v3.5zm-7 5.5v-4h7v4.5H5c-.3 0-.5-.2-.5-.5zm14.5.5h-6V15h6.5v4c0 .3-.2.5-.5.5z"
 }));
@@ -37346,7 +37346,7 @@ var align_right = __webpack_require__("ziDm");
  */
 
 const tableRowBefore = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "-2 -2 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M6.656 6.464h2.88v2.88h1.408v-2.88h2.88V5.12h-2.88V2.24H9.536v2.88h-2.88zM0 17.92V0h20.48v17.92H0zm7.68-2.56h5.12v-3.84H7.68v3.84zm-6.4 0H6.4v-3.84H1.28v3.84zM19.2 1.28H1.28v9.024H19.2V1.28zm0 10.24h-5.12v3.84h5.12v-3.84zM6.656 6.464h2.88v2.88h1.408v-2.88h2.88V5.12h-2.88V2.24H9.536v2.88h-2.88zM0 17.92V0h20.48v17.92H0zm7.68-2.56h5.12v-3.84H7.68v3.84zm-6.4 0H6.4v-3.84H1.28v3.84zM19.2 1.28H1.28v9.024H19.2V1.28zm0 10.24h-5.12v3.84h5.12v-3.84z"
@@ -37361,7 +37361,7 @@ const tableRowBefore = Object(external_wp_element_["createElement"])(external_wp
  */
 
 const tableRowAfter = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "-2 -2 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M13.824 10.176h-2.88v-2.88H9.536v2.88h-2.88v1.344h2.88v2.88h1.408v-2.88h2.88zM0 17.92V0h20.48v17.92H0zM6.4 1.28H1.28v3.84H6.4V1.28zm6.4 0H7.68v3.84h5.12V1.28zm6.4 0h-5.12v3.84h5.12V1.28zm0 5.056H1.28v9.024H19.2V6.336z"
@@ -37376,7 +37376,7 @@ const tableRowAfter = Object(external_wp_element_["createElement"])(external_wp_
  */
 
 const tableRowDelete = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "-2 -2 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M17.728 11.456L14.592 8.32l3.2-3.2-1.536-1.536-3.2 3.2L9.92 3.648 8.384 5.12l3.2 3.2-3.264 3.264 1.536 1.536 3.264-3.264 3.136 3.136 1.472-1.536zM0 17.92V0h20.48v17.92H0zm19.2-6.4h-.448l-1.28-1.28H19.2V6.4h-1.792l1.28-1.28h.512V1.28H1.28v3.84h6.208l1.28 1.28H1.28v3.84h7.424l-1.28 1.28H1.28v3.84H19.2v-3.84z"
@@ -37391,7 +37391,7 @@ const tableRowDelete = Object(external_wp_element_["createElement"])(external_wp
  */
 
 const tableColumnBefore = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "-2 -2 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M6.4 3.776v3.648H2.752v1.792H6.4v3.648h1.728V9.216h3.712V7.424H8.128V3.776zM0 17.92V0h20.48v17.92H0zM12.8 1.28H1.28v14.08H12.8V1.28zm6.4 0h-5.12v3.84h5.12V1.28zm0 5.12h-5.12v3.84h5.12V6.4zm0 5.12h-5.12v3.84h5.12v-3.84z"
@@ -37406,7 +37406,7 @@ const tableColumnBefore = Object(external_wp_element_["createElement"])(external
  */
 
 const tableColumnAfter = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "-2 -2 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M14.08 12.864V9.216h3.648V7.424H14.08V3.776h-1.728v3.648H8.64v1.792h3.712v3.648zM0 17.92V0h20.48v17.92H0zM6.4 1.28H1.28v3.84H6.4V1.28zm0 5.12H1.28v3.84H6.4V6.4zm0 5.12H1.28v3.84H6.4v-3.84zM19.2 1.28H7.68v14.08H19.2V1.28z"
@@ -37421,7 +37421,7 @@ const tableColumnAfter = Object(external_wp_element_["createElement"])(external_
  */
 
 const tableColumnDelete = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "-2 -2 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M6.4 9.98L7.68 8.7v-.256L6.4 7.164V9.98zm6.4-1.532l1.28-1.28V9.92L12.8 8.64v-.192zm7.68 9.472V0H0v17.92h20.48zm-1.28-2.56h-5.12v-1.024l-.256.256-1.024-1.024v1.792H7.68v-1.792l-1.024 1.024-.256-.256v1.024H1.28V1.28H6.4v2.368l.704-.704.576.576V1.216h5.12V3.52l.96-.96.32.32V1.216h5.12V15.36zm-5.76-2.112l-3.136-3.136-3.264 3.264-1.536-1.536 3.264-3.264L5.632 5.44l1.536-1.536 3.136 3.136 3.2-3.2 1.536 1.536-3.2 3.2 3.136 3.136-1.536 1.536z"
@@ -37436,7 +37436,7 @@ const tableColumnDelete = Object(external_wp_element_["createElement"])(external
  */
 
 const table = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M4 6v11.5h16V6H4zm1.5 1.5h6V11h-6V7.5zm0 8.5v-3.5h6V16h-6zm13 0H13v-3.5h5.5V16zM13 11V7.5h5.5V11H13z"
@@ -39847,7 +39847,7 @@ Object(external_wp_hooks_["addFilter"])('blockEditor.__unstableCanInsertBlockTyp
  */
 
 const term_description_tag = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   stroke: "#1E1E1E",
@@ -40158,7 +40158,7 @@ const text_columns_settings = {
 
 const verse = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M17.8 2l-.9.3c-.1 0-3.6 1-5.2 2.1C10 5.5 9.3 6.5 8.9 7.1c-.6.9-1.7 4.7-1.7 6.3l-.9 2.3c-.2.4 0 .8.4 1 .1 0 .2.1.3.1.3 0 .6-.2.7-.5l.6-1.5c.3 0 .7-.1 1.2-.2.7-.1 1.4-.3 2.2-.5.8-.2 1.6-.5 2.4-.8.7-.3 1.4-.7 1.9-1.2s.8-1.2 1-1.9c.2-.7.3-1.6.4-2.4.1-.8.1-1.7.2-2.5 0-.8.1-1.5.2-2.1V2zm-1.9 5.6c-.1.8-.2 1.5-.3 2.1-.2.6-.4 1-.6 1.3-.3.3-.8.6-1.4.9-.7.3-1.4.5-2.2.8-.6.2-1.3.3-1.8.4L15 7.5c.3-.3.6-.7 1-1.1 0 .4 0 .8-.1 1.2zM6 20h8v-1.5H6V20z"
 }));
@@ -40488,7 +40488,7 @@ const verse_settings = {
 
 const video = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M18.7 3H5.3C4 3 3 4 3 5.3v13.4C3 20 4 21 5.3 21h13.4c1.3 0 2.3-1 2.3-2.3V5.3C21 4 20 3 18.7 3zm.8 15.7c0 .4-.4.8-.8.8H5.3c-.4 0-.8-.4-.8-.8V5.3c0-.4.4-.8.8-.8h13.4c.4 0 .8.4.8.8v13.4zM10 15l5-3-5-3v6z"
 }));
@@ -41610,7 +41610,7 @@ const __experimentalRegisterExperimentalCoreBlocks =  false ? undefined : undefi
  */
 
 const linkOff = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M15.6 7.3h-.7l1.6-3.5-.9-.4-3.9 8.5H9v1.5h2l-1.3 2.8H8.4c-2 0-3.7-1.7-3.7-3.7s1.7-3.7 3.7-3.7H10V7.3H8.4c-2.9 0-5.2 2.3-5.2 5.2 0 2.9 2.3 5.2 5.2 5.2H9l-1.4 3.2.9.4 5.7-12.5h1.4c2 0 3.7 1.7 3.7 3.7s-1.7 3.7-3.7 3.7H14v1.5h1.6c2.9 0 5.2-2.3 5.2-5.2 0-2.9-2.4-5.2-5.2-5.2z"
@@ -41642,7 +41642,7 @@ const linkOff = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createEl
  */
 
 const upload = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M18.5 15v3.5H13V6.7l4.5 4.1 1-1.1-6.2-5.8-5.8 5.8 1 1.1 4-4v11.7h-6V15H4v5h16v-5z"
@@ -41667,7 +41667,7 @@ const upload = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createEle
  */
 
 const symbolFilled = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M21.3 10.8l-5.6-5.6c-.7-.7-1.8-.7-2.5 0l-5.6 5.6c-.7.7-.7 1.8 0 2.5l5.6 5.6c.3.3.8.5 1.2.5s.9-.2 1.2-.5l5.6-5.6c.8-.7.8-1.9.1-2.5zm-17.6 1L10 5.5l-1-1-6.3 6.3c-.7.7-.7 1.8 0 2.5L9 19.5l1.1-1.1-6.3-6.3c-.2 0-.2-.2-.1-.3z"
@@ -41693,7 +41693,7 @@ const symbolFilled = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["cre
 
 const listView = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M13.8 5.2H3v1.5h10.8V5.2zm-3.6 12v1.5H21v-1.5H10.2zm7.2-6H6.6v1.5h10.8v-1.5z"
 }));
@@ -41717,7 +41717,7 @@ const listView = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createE
  */
 
 const check = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M16.7 7.1l-6.3 8.5-3.3-2.5-.9 1.2 4.5 3.4L17.9 8z"
@@ -41740,7 +41740,7 @@ const check = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElem
 var __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;/*!
   Copyright (c) 2018 Jed Watson.
   Licensed under the MIT License (MIT), see
-  https://jedwatson.github.io/classnames
+  http://jedwatson.github.io/classnames
 */
 /* global define */
 
@@ -41850,7 +41850,7 @@ var __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;/*!
  */
 
 const grid = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-7.8 16.5H5c-.3 0-.5-.2-.5-.5v-6.2h6.8v6.7zm0-8.3H4.5V5c0-.3.2-.5.5-.5h6.2v6.7zm8.3 7.8c0 .3-.2.5-.5.5h-6.2v-6.8h6.8V19zm0-7.8h-6.8V4.5H19c.3 0 .5.2.5.5v6.2z",
@@ -41877,7 +41877,7 @@ const grid = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createEleme
  */
 
 const closeSmall = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M12 13.06l3.712 3.713 1.061-1.06L13.061 12l3.712-3.712-1.06-1.06L12 10.938 8.288 7.227l-1.061 1.06L10.939 12l-3.712 3.712 1.06 1.061L12 13.061z"
@@ -41902,7 +41902,7 @@ const closeSmall = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["creat
  */
 
 const keyboardReturn = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "-2 -2 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M6.734 16.106l2.176-2.38-1.093-1.028-3.846 4.158 3.846 4.157 1.093-1.027-2.176-2.38h2.811c1.125 0 2.25.03 3.374 0 1.428-.001 3.362-.25 4.963-1.277 1.66-1.065 2.868-2.906 2.868-5.859 0-2.479-1.327-4.896-3.65-5.93-1.82-.813-3.044-.8-4.806-.788l-.567.002v1.5c.184 0 .368 0 .553-.002 1.82-.007 2.704-.014 4.21.657 1.854.827 2.76 2.657 2.76 4.561 0 2.472-.973 3.824-2.178 4.596-1.258.807-2.864 1.04-4.163 1.04h-.02c-1.115.03-2.229 0-3.344 0H6.734z"
@@ -41927,7 +41927,7 @@ const keyboardReturn = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["c
  */
 
 const search = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M13.5 6C10.5 6 8 8.5 8 11.5c0 1.1.3 2.1.9 3l-3.4 3 1 1.1 3.4-2.9c1 .9 2.2 1.4 3.6 1.4 3 0 5.5-2.5 5.5-5.5C19 8.5 16.5 6 13.5 6zm0 9.5c-2.2 0-4-1.8-4-4s1.8-4 4-4 4 1.8 4 4-1.8 4-4 4z"
@@ -41973,7 +41973,7 @@ var r={grad:.9,turn:360,rad:360/(2*Math.PI)},t=function(r){return"string"==typeo
  */
 
 const alignLeft = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M4 19.8h8.9v-1.5H4v1.5zm8.9-15.6H4v1.5h8.9V4.2zm-8.9 7v1.5h16v-1.5H4z"
@@ -42066,7 +42066,7 @@ function Icon(_ref) {
  */
 
 const settings = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M14.5 13.8c-1.1 0-2.1.7-2.4 1.8H4V17h8.1c.3 1 1.3 1.8 2.4 1.8s2.1-.7 2.4-1.8H20v-1.5h-3.1c-.3-1-1.3-1.7-2.4-1.7zM11.9 7c-.3-1-1.3-1.8-2.4-1.8S7.4 6 7.1 7H4v1.5h3.1c.3 1 1.3 1.8 2.4 1.8s2.1-.7 2.4-1.8H20V7h-8.1z"
@@ -42092,7 +42092,7 @@ const settings = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createE
 
 const button = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M19 6.5H5c-1.1 0-2 .9-2 2v7c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2v-7c0-1.1-.9-2-2-2zm.5 9c0 .3-.2.5-.5.5H5c-.3 0-.5-.2-.5-.5v-7c0-.3.2-.5.5-.5h14c.3 0 .5.2.5.5v7zM8 12.8h8v-1.5H8v1.5z"
 }));
@@ -42123,7 +42123,7 @@ const button = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createEle
  */
 
 const alignCenter = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M16.4 4.2H7.6v1.5h8.9V4.2zM4 11.2v1.5h16v-1.5H4zm3.6 8.6h8.9v-1.5H7.6v1.5z"
@@ -42155,7 +42155,7 @@ const alignCenter = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["crea
  */
 
 const media = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M18.7 3H5.3C4 3 3 4 3 5.3v13.4C3 20 4 21 5.3 21h13.4c1.3 0 2.3-1 2.3-2.3V5.3C21 4 20 3 18.7 3zm.8 15.7c0 .4-.4.8-.8.8H5.3c-.4 0-.8-.4-.8-.8V5.3c0-.4.4-.8.8-.8h13.4c.4 0 .8.4.8.8v13.4zM10 15l5-3-5-3v6z"
@@ -42187,7 +42187,7 @@ const media = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElem
  */
 
 const sidebar = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M18 5.5H6a.5.5 0 00-.5.5v3h13V6a.5.5 0 00-.5-.5zm.5 5H10v8h8a.5.5 0 00.5-.5v-7.5zM6 4h12a2 2 0 012 2v12a2 2 0 01-2 2H6a2 2 0 01-2-2V6a2 2 0 012-2z"
@@ -42220,7 +42220,7 @@ const sidebar = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createEl
 
 const group = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M18 4h-7c-1.1 0-2 .9-2 2v3H6c-1.1 0-2 .9-2 2v7c0 1.1.9 2 2 2h7c1.1 0 2-.9 2-2v-3h3c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm-4.5 14c0 .3-.2.5-.5.5H6c-.3 0-.5-.2-.5-.5v-7c0-.3.2-.5.5-.5h3V13c0 1.1.9 2 2 2h2.5v3zm0-4.5H11c-.3 0-.5-.2-.5-.5v-2.5H13c.3 0 .5.2.5.5v2.5zm5-.5c0 .3-.2.5-.5.5h-3V11c0-1.1-.9-2-2-2h-2.5V6c0-.3.2-.5.5-.5h7c.3 0 .5.2.5.5v7z"
 }));
@@ -42244,7 +42244,7 @@ const group = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElem
  */
 
 const close = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M13 11.8l6.1-6.3-1-1-6.1 6.2-6.1-6.2-1 1 6.1 6.3-6.5 6.7 1 1 6.5-6.6 6.5 6.6 1-1z"
@@ -42308,7 +42308,7 @@ function _extends() {
  */
 
 const alignRight = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M11.1 19.8H20v-1.5h-8.9v1.5zm0-15.6v1.5H20V4.2h-8.9zM4 12.8h16v-1.5H4v1.5z"

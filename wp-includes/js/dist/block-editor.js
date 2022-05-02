@@ -729,7 +729,7 @@ const useBlockTypesState = (rootClientId, onInsert) => {
  */
 
 const symbol = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M21.3 10.8l-5.6-5.6c-.7-.7-1.8-.7-2.5 0l-5.6 5.6c-.7.7-.7 1.8 0 2.5l5.6 5.6c.3.3.8.5 1.2.5s.9-.2 1.2-.5l5.6-5.6c.8-.7.8-1.9.1-2.5zm-1 1.4l-5.6 5.6c-.1.1-.3.1-.4 0l-5.6-5.6c-.1-.1-.1-.3 0-.4l5.6-5.6s.1-.1.2-.1.1 0 .2.1l5.6 5.6c.1.1.1.3 0 .4zm-16.6-.4L10 5.5l-1-1-6.3 6.3c-.7.7-.7 1.8 0 2.5L9 19.5l1.1-1.1-6.3-6.3c-.2 0-.2-.2-.1-.3z"
@@ -1834,7 +1834,7 @@ function BlockToolbar(_ref) {
  */
 
 const blockDefault = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M19 8h-1V6h-5v2h-2V6H6v2H5c-1.1 0-2 .9-2 2v8c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2v-8c0-1.1-.9-2-2-2zm.5 10c0 .3-.2.5-.5.5H5c-.3 0-.5-.2-.5-.5v-8c0-.3.2-.5.5-.5h14c.3 0 .5.2.5.5v8z"
@@ -1872,7 +1872,7 @@ var external_wp_primitives_ = __webpack_require__("Tqx9");
  */
 
 const formatUppercase = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M6.1 6.8L2.1 18h1.6l1.1-3h4.3l1.1 3h1.6l-4-11.2H6.1zm-.8 6.8L7 8.9l1.7 4.7H5.3zm15.1-.7c-.4-.5-.9-.8-1.6-1 .4-.2.7-.5.8-.9.2-.4.3-.9.3-1.4 0-.9-.3-1.6-.8-2-.6-.5-1.3-.7-2.4-.7h-3.5V18h4.2c1.1 0 2-.3 2.6-.8.6-.6 1-1.4 1-2.4-.1-.8-.3-1.4-.6-1.9zm-5.7-4.7h1.8c.6 0 1.1.1 1.4.4.3.2.5.7.5 1.3 0 .6-.2 1.1-.5 1.3-.3.2-.8.4-1.4.4h-1.8V8.2zm4 8c-.4.3-.9.5-1.5.5h-2.6v-3.8h2.6c1.4 0 2 .6 2 1.9.1.6-.1 1-.5 1.4z"
@@ -1887,7 +1887,7 @@ const formatUppercase = Object(external_wp_element_["createElement"])(external_w
  */
 
 const formatLowercase = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M11 16.8c-.1-.1-.2-.3-.3-.5v-2.6c0-.9-.1-1.7-.3-2.2-.2-.5-.5-.9-.9-1.2-.4-.2-.9-.3-1.6-.3-.5 0-1 .1-1.5.2s-.9.3-1.2.6l.2 1.2c.4-.3.7-.4 1.1-.5.3-.1.7-.2 1-.2.6 0 1 .1 1.3.4.3.2.4.7.4 1.4-1.2 0-2.3.2-3.3.7s-1.4 1.1-1.4 2.1c0 .7.2 1.2.7 1.6.4.4 1 .6 1.8.6.9 0 1.7-.4 2.4-1.2.1.3.2.5.4.7.1.2.3.3.6.4.3.1.6.1 1.1.1h.1l.2-1.2h-.1c-.4.1-.6 0-.7-.1zM9.2 16c-.2.3-.5.6-.9.8-.3.1-.7.2-1.1.2-.4 0-.7-.1-.9-.3-.2-.2-.3-.5-.3-.9 0-.6.2-1 .7-1.3.5-.3 1.3-.4 2.5-.5v2zm10.6-3.9c-.3-.6-.7-1.1-1.2-1.5-.6-.4-1.2-.6-1.9-.6-.5 0-.9.1-1.4.3-.4.2-.8.5-1.1.8V6h-1.4v12h1.3l.2-1c.2.4.6.6 1 .8.4.2.9.3 1.4.3.7 0 1.2-.2 1.8-.5.5-.4 1-.9 1.3-1.5.3-.6.5-1.3.5-2.1-.1-.6-.2-1.3-.5-1.9zm-1.7 4c-.4.5-.9.8-1.6.8s-1.2-.2-1.7-.7c-.4-.5-.7-1.2-.7-2.1 0-.9.2-1.6.7-2.1.4-.5 1-.7 1.7-.7s1.2.3 1.6.8c.4.5.6 1.2.6 2s-.2 1.4-.6 2z"
@@ -1902,7 +1902,7 @@ const formatLowercase = Object(external_wp_element_["createElement"])(external_w
  */
 
 const formatCapitalize = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M7.1 6.8L3.1 18h1.6l1.1-3h4.3l1.1 3h1.6l-4-11.2H7.1zm-.8 6.8L8 8.9l1.7 4.7H6.3zm14.5-1.5c-.3-.6-.7-1.1-1.2-1.5-.6-.4-1.2-.6-1.9-.6-.5 0-.9.1-1.4.3-.4.2-.8.5-1.1.8V6h-1.4v12h1.3l.2-1c.2.4.6.6 1 .8.4.2.9.3 1.4.3.7 0 1.2-.2 1.8-.5.5-.4 1-.9 1.3-1.5.3-.6.5-1.3.5-2.1-.1-.6-.2-1.3-.5-1.9zm-1.7 4c-.4.5-.9.8-1.6.8s-1.2-.2-1.7-.7c-.4-.5-.7-1.2-.7-2.1 0-.9.2-1.6.7-2.1.4-.5 1-.7 1.7-.7s1.2.3 1.6.8c.4.5.6 1.2.6 2 .1.8-.2 1.4-.6 2z"
@@ -3015,7 +3015,7 @@ var external_wp_primitives_ = __webpack_require__("Tqx9");
  */
 
 const fullscreen = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M4.2 9h1.5V5.8H9V4.2H4.2V9zm14 9.2H15v1.5h4.8V15h-1.5v3.2zM15 4.2v1.5h3.2V9h1.5V4.2H15zM5.8 15H4.2v4.8H9v-1.5H5.8V15z"
@@ -3133,7 +3133,7 @@ var build_module_icon = __webpack_require__("iClF");
  */
 
 const chevronRightSmall = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M10.8622 8.04053L14.2805 12.0286L10.8622 16.0167L9.72327 15.0405L12.3049 12.0286L9.72327 9.01672L10.8622 8.04053Z"
@@ -5204,19 +5204,19 @@ function __experimentalBlockVariationTransforms(_ref) {
  */
 
 const alignBottom = Object(external_wp_element_["createElement"])(external_wp_components_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_components_["Path"], {
   d: "M15 4H9v11h6V4zM4 18.5V20h16v-1.5H4z"
 }));
 const alignCenter = Object(external_wp_element_["createElement"])(external_wp_components_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_components_["Path"], {
   d: "M20 11h-5V4H9v7H4v1.5h5V20h6v-7.5h5z"
 }));
 const alignTop = Object(external_wp_element_["createElement"])(external_wp_components_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_components_["Path"], {
   d: "M9 20h6V9H9v11zM4 4v1.5h16V4H4z"
@@ -6829,7 +6829,7 @@ var check = __webpack_require__("RMJe");
  */
 
 const aspectRatio = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M18.5 5.5h-13c-1.1 0-2 .9-2 2v9c0 1.1.9 2 2 2h13c1.1 0 2-.9 2-2v-9c0-1.1-.9-2-2-2zm.5 11c0 .3-.2.5-.5.5h-13c-.3 0-.5-.2-.5-.5v-9c0-.3.2-.5.5-.5h13c.3 0 .5.2.5.5v9zM6.5 12H8v-2h2V8.5H6.5V12zm9.5 2h-2v1.5h3.5V12H16v2z"
@@ -6968,7 +6968,7 @@ function AspectRatioDropdown(_ref3) {
  */
 
 const rotateRight = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M15.1 4.8l-3-2.5V4c-4.4 0-8 3.6-8 8 0 3.7 2.5 6.9 6 7.7.3.1.6.1 1 .2l.2-1.5c-.4 0-.7-.1-1.1-.2l-.1.2v-.2c-2.6-.8-4.5-3.3-4.5-6.2 0-3.6 2.9-6.5 6.5-6.5v1.8l3-2.5zM20 11c-.2-1.4-.7-2.7-1.6-3.8l-1.2.8c.7.9 1.1 2 1.3 3.1L20 11zm-1.5 1.8c-.1.5-.2 1.1-.4 1.6s-.5 1-.8 1.5l1.2.9c.4-.5.8-1.1 1-1.8s.5-1.3.5-2l-1.5-.2zm-5.6 5.6l.2 1.5c1.4-.2 2.7-.7 3.8-1.6l-.9-1.1c-.9.7-2 1.1-3.1 1.2z"
@@ -11675,7 +11675,7 @@ function __unstableRichTextInputEvent(_ref) {
 
 
 const selectIcon = Object(external_wp_element_["createElement"])(external_wp_components_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   width: "24",
   height: "24",
   viewBox: "0 0 24 24"
@@ -11879,7 +11879,7 @@ const LINK_DESTINATION_ATTACHMENT = 'attachment';
 const NEW_TAB_REL = ['noreferrer', 'noopener'];
 const image_url_input_ui_icon = Object(external_wp_element_["createElement"])(external_wp_components_["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(external_wp_element_["createElement"])(external_wp_components_["Path"], {
   d: "M0,0h24v24H0V0z",
   fill: "none"
@@ -12021,7 +12021,7 @@ const ImageURLInputUI = _ref => {
         url: mediaType === 'image' ? mediaLink : undefined,
         icon: Object(external_wp_element_["createElement"])(external_wp_components_["SVG"], {
           viewBox: "0 0 24 24",
-          xmlns: "https://www.w3.org/2000/svg"
+          xmlns: "http://www.w3.org/2000/svg"
         }, Object(external_wp_element_["createElement"])(external_wp_components_["Path"], {
           d: "M0 0h24v24H0V0z",
           fill: "none"
@@ -13738,7 +13738,7 @@ module.exports = function() {
     var err = new Error(
       'Calling PropTypes validators directly is not supported by the `prop-types` package. ' +
       'Use PropTypes.checkPropTypes() to call them. ' +
-      'Read more at https://fb.me/use-check-prop-types'
+      'Read more at http://fb.me/use-check-prop-types'
     );
     err.name = 'Invariant Violation';
     throw err;
@@ -13795,7 +13795,7 @@ module.exports = function() {
 
 if (false) { var throwOnDirectAccess, ReactIs; } else {
   // By explicitly using `prop-types` you are opting into new production behavior.
-  // https://fb.me/prop-types-in-prod
+  // http://fb.me/prop-types-in-prod
   module.exports = __webpack_require__("16Al")();
 }
 
@@ -13919,7 +13919,7 @@ var PAGE_HEIGHT = 800;
  *
  * The 'wheel' event is more standard:
  *
- * https://www.w3.org/TR/DOM-Level-3-Events/#events-wheelevents
+ * http://www.w3.org/TR/DOM-Level-3-Events/#events-wheelevents
  *
  * The basics is that it includes a unit, deltaMode (pixels, lines, pages), and
  * deltaX, deltaY and deltaZ.  Some browsers provide other values to maintain
@@ -14497,7 +14497,7 @@ function BlockSettingsDropdown(_ref2) {
  */
 
 const chevronRight = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M10.6 6L9.4 7l4.6 5-4.6 5 1.2 1 5.4-6z"
@@ -14662,7 +14662,7 @@ var external_wp_primitives_ = __webpack_require__("Tqx9");
  */
 
 const lineDashed = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   width: "24",
   height: "24",
   fill: "none"
@@ -14681,7 +14681,7 @@ const lineDashed = Object(external_wp_element_["createElement"])(external_wp_pri
  */
 
 const lineDotted = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   width: "24",
   height: "24",
   fill: "none"
@@ -14761,7 +14761,7 @@ function BorderStyleControl(_ref) {
  */
 
 const chevronLeft = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M14.6 7l-1.2-1L8 12l5.4 6 1.2-1-4.6-5z"
@@ -16890,7 +16890,7 @@ var external_wp_primitives_ = __webpack_require__("Tqx9");
  */
 
 const pencil = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M20.1 5.1L16.9 2 6.2 12.7l-1.3 4.4 4.5-1.3L20.1 5.1zM4 20.8h8v-1.5H4v1.5z"
@@ -22915,7 +22915,7 @@ function FontAppearanceControl(props) {
  */
 
 const link = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M15.6 7.2H14v1.5h1.6c2 0 3.7 1.7 3.7 3.7s-1.7 3.7-3.7 3.7H14v1.5h1.6c2.8 0 5.2-2.3 5.2-5.2 0-2.9-2.3-5.2-5.2-5.2zM4.7 12.4c0-2 1.7-3.7 3.7-3.7H10V7.2H8.4c-2.9 0-5.2 2.3-5.2 5.2 0 2.9 2.3 5.2 5.2 5.2H10v-1.5H8.4c-2 0-3.7-1.7-3.7-3.7zm4.6.9h5.3v-1.5H9.3v1.5z"
@@ -23116,7 +23116,7 @@ exports.TextareaAutosize = React.forwardRef(function (props, ref) {
  */
 
 const layout = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M18 5.5H6a.5.5 0 00-.5.5v3h13V6a.5.5 0 00-.5-.5zm.5 5H10v8h8a.5.5 0 00.5-.5v-7.5zm-10 0h-3V18a.5.5 0 00.5.5h2.5v-8zM6 4h12a2 2 0 012 2v12a2 2 0 01-2 2H6a2 2 0 01-2-2V6a2 2 0 012-2z"
@@ -23278,7 +23278,7 @@ function __experimentalUseGradient() {
  */
 
 const formatStrikethrough = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M9.1 9v-.5c0-.6.2-1.1.7-1.4.5-.3 1.2-.5 2-.5.7 0 1.4.1 2.1.3.7.2 1.4.5 2.1.9l.2-1.9c-.6-.3-1.2-.5-1.9-.7-.8-.1-1.6-.2-2.4-.2-1.5 0-2.7.3-3.6 1-.8.7-1.2 1.5-1.2 2.6V9h2zM20 12H4v1h8.3c.3.1.6.2.8.3.5.2.9.5 1.1.8.3.3.4.7.4 1.2 0 .7-.2 1.1-.8 1.5-.5.3-1.2.5-2.1.5-.8 0-1.6-.1-2.4-.3-.8-.2-1.5-.5-2.2-.8L7 18.1c.5.2 1.2.4 2 .6.8.2 1.6.3 2.4.3 1.7 0 3-.3 3.9-1 .9-.7 1.3-1.6 1.3-2.8 0-.9-.2-1.7-.7-2.2H20v-1z"
@@ -23303,7 +23303,7 @@ const formatStrikethrough = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0
  */
 
 const justifyCenter = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M20 9h-7.2V4h-1.6v5H4v6h7.2v5h1.6v-5H20z"
@@ -23385,7 +23385,7 @@ function useBlockCustomClassName(clientId) {
  */
 
 const positionCenter = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M7 9v6h10V9H7zM5 19.8h14v-1.5H5v1.5zM5 4.3v1.5h14V4.3H5z"
@@ -23528,7 +23528,7 @@ function BlockPatternList(_ref3) {
  */
 
 const info = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M12 3.2c-4.8 0-8.8 3.9-8.8 8.8 0 4.8 3.9 8.8 8.8 8.8 4.8 0 8.8-3.9 8.8-8.8 0-4.8-4-8.8-8.8-8.8zm0 16c-4 0-7.2-3.3-7.2-7.2C4.8 8 8 4.8 12 4.8s7.2 3.3 7.2 7.2c0 4-3.2 7.2-7.2 7.2zM11 17h2v-6h-2v6zm0-8h2V7h-2v2z"
@@ -23722,7 +23722,7 @@ const InserterListboxContext = Object(_wordpress_element__WEBPACK_IMPORTED_MODUL
 var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;/*!
 	autosize 4.0.4
 	license: MIT
-	https://www.jacklmoore.com/autosize
+	http://www.jacklmoore.com/autosize
 */
 (function (global, factory) {
 	if (true) {
@@ -25275,7 +25275,7 @@ function useAvailableAlignments() {
  */
 
 const globe = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M12 3.3c-4.8 0-8.8 3.9-8.8 8.8 0 4.8 3.9 8.8 8.8 8.8 4.8 0 8.8-3.9 8.8-8.8s-4-8.8-8.8-8.8zm6.5 5.5h-2.6C15.4 7.3 14.8 6 14 5c2 .6 3.6 2 4.5 3.8zm.7 3.2c0 .6-.1 1.2-.2 1.8h-2.9c.1-.6.1-1.2.1-1.8s-.1-1.2-.1-1.8H19c.2.6.2 1.2.2 1.8zM12 18.7c-1-.7-1.8-1.9-2.3-3.5h4.6c-.5 1.6-1.3 2.9-2.3 3.5zm-2.6-4.9c-.1-.6-.1-1.1-.1-1.8 0-.6.1-1.2.1-1.8h5.2c.1.6.1 1.1.1 1.8s-.1 1.2-.1 1.8H9.4zM4.8 12c0-.6.1-1.2.2-1.8h2.9c-.1.6-.1 1.2-.1 1.8 0 .6.1 1.2.1 1.8H5c-.2-.6-.2-1.2-.2-1.8zM12 5.3c1 .7 1.8 1.9 2.3 3.5H9.7c.5-1.6 1.3-2.9 2.3-3.5zM10 5c-.8 1-1.4 2.3-1.8 3.8H5.5C6.4 7 8 5.6 10 5zM5.5 15.3h2.6c.4 1.5 1 2.8 1.8 3.7-1.8-.6-3.5-2-4.4-3.7zM14 19c.8-1 1.4-2.2 1.8-3.7h2.6C17.6 17 16 18.4 14 19z"
@@ -25494,7 +25494,7 @@ function InserterListboxItem(_ref, ref) {
  */
 
 const linkOff = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M15.6 7.3h-.7l1.6-3.5-.9-.4-3.9 8.5H9v1.5h2l-1.3 2.8H8.4c-2 0-3.7-1.7-3.7-3.7s1.7-3.7 3.7-3.7H10V7.3H8.4c-2.9 0-5.2 2.3-5.2 5.2 0 2.9 2.3 5.2 5.2 5.2H9l-1.4 3.2.9.4 5.7-12.5h1.4c2 0 3.7 1.7 3.7 3.7s-1.7 3.7-3.7 3.7H14v1.5h1.6c2.9 0 5.2-2.3 5.2-5.2 0-2.9-2.4-5.2-5.2-5.2z"
@@ -25608,7 +25608,7 @@ function getFontSizeClass(fontSizeSlug) {
  */
 
 const upload = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M18.5 15v3.5H13V6.7l4.5 4.1 1-1.1-6.2-5.8-5.8 5.8 1 1.1 4-4v11.7h-6V15H4v5h16v-5z"
@@ -25634,7 +25634,7 @@ const upload = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createEle
 
 const chevronDown = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M17.5 11.6L12 16l-5.5-4.4.9-1.2L12 14l4.5-3.6 1 1.2z"
 }));
@@ -25810,7 +25810,7 @@ function getBlockClientId(node) {
 
 const listView = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M13.8 5.2H3v1.5h10.8V5.2zm-3.6 12v1.5H21v-1.5H10.2zm7.2-6H6.6v1.5h10.8v-1.5z"
 }));
@@ -26016,7 +26016,7 @@ var external_wp_primitives_ = __webpack_require__("Tqx9");
  */
 
 const arrowRight = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M14.3 6.7l-1.1 1.1 4 4H4v1.5h13.3l-4.1 4.4 1.1 1.1 5.8-6.3z"
@@ -26031,7 +26031,7 @@ const arrowRight = Object(external_wp_element_["createElement"])(external_wp_pri
  */
 
 const arrowDown = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M16.2 13.2l-4 4V4h-1.5v13.3l-4.5-4.1-1 1.1 6.2 5.8 5.8-5.8-1-1.1z"
@@ -27024,7 +27024,7 @@ function useBlockClassNames(clientId) {
  */
 
 const plus = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M18 11.2h-5.2V6h-1.6v5.2H6v1.6h5.2V18h1.6v-5.2H18z"
@@ -27363,7 +27363,7 @@ function useBlockPreview(_ref2) {
  */
 
 const check = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M16.7 7.1l-6.3 8.5-3.3-2.5-.9 1.2 4.5 3.4L17.9 8z"
@@ -27497,7 +27497,7 @@ module.exports = lineHeight;
 var __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;/*!
   Copyright (c) 2018 Jed Watson.
   Licensed under the MIT License (MIT), see
-  https://jedwatson.github.io/classnames
+  http://jedwatson.github.io/classnames
 */
 /* global define */
 
@@ -28414,7 +28414,7 @@ function BlockSettingsMenu(_ref) {
  */
 
 const moreVertical = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M13 19h-2v-2h2v2zm0-6h-2v-2h2v2zm0-6h-2V5h2v2z"
@@ -29557,7 +29557,7 @@ function BorderRadiusControl(_ref) {
  */
 
 const stretchFullWidth = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M5 4v11h14V4H5zm3 15.8h8v-1.5H8v1.5z"
@@ -29583,7 +29583,7 @@ const stretchFullWidth = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__[
 
 const chevronUp = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
   viewBox: "0 0 24 24",
-  xmlns: "https://www.w3.org/2000/svg"
+  xmlns: "http://www.w3.org/2000/svg"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M6.5 12.4L12 8l5.5 4.4-.9 1.2L12 10l-4.5 3.6-1-1.2z"
 }));
@@ -30097,7 +30097,7 @@ var external_wp_primitives_ = __webpack_require__("Tqx9");
  */
 
 const moreHorizontal = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M11 13h2v-2h-2v2zm-6 0h2v-2H5v2zm12-2v2h2v-2h-2z"
@@ -30218,7 +30218,7 @@ function BlockSupportSlotContainer(_ref) {
  */
 
 const grid = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-7.8 16.5H5c-.3 0-.5-.2-.5-.5v-6.2h6.8v6.7zm0-8.3H4.5V5c0-.3.2-.5.5-.5h6.2v6.7zm8.3 7.8c0 .3-.2.5-.5.5h-6.2v-6.8h6.8V19zm0-7.8h-6.8V4.5H19c.3 0 .5.2.5.5v6.2z",
@@ -30245,7 +30245,7 @@ const grid = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createEleme
  */
 
 const justifySpaceBetween = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M9 15h6V9H9v6zm-5 5h1.5V4H4v16zM18.5 4v16H20V4h-1.5z"
@@ -30270,7 +30270,7 @@ const justifySpaceBetween = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0
  */
 
 const lineSolid = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   width: "24",
   height: "24",
   fill: "none"
@@ -30400,7 +30400,7 @@ function getMostReadableColor(colors, colorValue) {
  */
 
 const stretchWide = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M5 9v6h14V9H5zm11-4.8H8v1.5h8V4.2zM8 19.8h8v-1.5H8v1.5z"
@@ -30425,7 +30425,7 @@ const stretchWide = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["crea
  */
 
 const keyboardReturn = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "-2 -2 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M6.734 16.106l2.176-2.38-1.093-1.028-3.846 4.158 3.846 4.157 1.093-1.027-2.176-2.38h2.811c1.125 0 2.25.03 3.374 0 1.428-.001 3.362-.25 4.963-1.277 1.66-1.065 2.868-2.906 2.868-5.859 0-2.479-1.327-4.896-3.65-5.93-1.82-.813-3.044-.8-4.806-.788l-.567.002v1.5c.184 0 .368 0 .553-.002 1.82-.007 2.704-.014 4.21.657 1.854.827 2.76 2.657 2.76 4.561 0 2.472-.973 3.824-2.178 4.596-1.258.807-2.864 1.04-4.163 1.04h-.02c-1.115.03-2.229 0-3.344 0H6.734z"
@@ -30601,7 +30601,7 @@ function BlockRefsProvider(_ref) {
  */
 
 const search = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M13.5 6C10.5 6 8 8.5 8 11.5c0 1.1.3 2.1.9 3l-3.4 3 1 1.1 3.4-2.9c1 .9 2.2 1.4 3.6 1.4 3 0 5.5-2.5 5.5-5.5C19 8.5 16.5 6 13.5 6zm0 9.5c-2.2 0-4-1.8-4-4s1.8-4 4-4 4 1.8 4 4-1.8 4-4 4z"
@@ -30626,7 +30626,7 @@ const search = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createEle
  */
 
 const arrowLeft = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M20 10.8H6.7l4.1-4.5-1.1-1.1-5.8 6.3 5.8 5.8 1.1-1.1-4-3.9H20z"
@@ -31464,7 +31464,7 @@ if (ExecutionEnvironment.canUseDOM) {
     document.implementation &&
     document.implementation.hasFeature &&
     // always returns true in newer browsers as per the standard.
-    // @see https://dom.spec.whatwg.org/#dom-domimplementation-hasfeature
+    // @see http://dom.spec.whatwg.org/#dom-domimplementation-hasfeature
     document.implementation.hasFeature('', '') !== true;
 }
 
@@ -31847,7 +31847,7 @@ BlockFormatControls.Slot = props => {
  */
 
 const alignLeft = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M4 19.8h8.9v-1.5H4v1.5zm8.9-15.6H4v1.5h8.9V4.2zm-8.9 7v1.5h16v-1.5H4z"
@@ -32883,7 +32883,7 @@ var PX = 'px';
 
 function _getComputedStyleIE(elem, name) {
   // currentStyle maybe null
-  // https://msdn.microsoft.com/en-us/library/ms535231.aspx
+  // http://msdn.microsoft.com/en-us/library/ms535231.aspx
   var ret = elem[CURRENT_STYLE] && elem[CURRENT_STYLE][name];
 
   // 当 width/height 设置为百分比时，通过 pixelLeft 方式转换的 width/height 值
@@ -32892,7 +32892,7 @@ function _getComputedStyleIE(elem, name) {
   // borderWidth 等值也有问题，但考虑到 borderWidth 设为百分比的概率很小，这里就不考虑了
 
   // From the awesome hack by Dean Edwards
-  // https://erik.eae.net/archives/2007/07/27/18.54.15/#comment-102291
+  // http://erik.eae.net/archives/2007/07/27/18.54.15/#comment-102291
   // If we're not dealing with a regular pixel number
   // but a number that has a weird ending, we need to convert it to pixels
   // exclude left right for relativity
@@ -34009,7 +34009,7 @@ module.exports = computedStyle;
  *  **Note:** You should **strongly** prefer capability detection to browser
  *  version detection where it's reasonable:
  *
- *    https://www.quirksmode.org/js/support.html
+ *    http://www.quirksmode.org/js/support.html
  *
  *  Further, we have a large number of mature wrapper functions and classes
  *  which abstract away many browser irregularities. Check the documentation,
@@ -34416,7 +34416,7 @@ var external_wp_primitives_ = __webpack_require__("Tqx9");
  */
 
 const formatUnderline = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M7 18v1h10v-1H7zm5-2c1.5 0 2.6-.4 3.4-1.2.8-.8 1.1-2 1.1-3.5V5H15v5.8c0 1.2-.2 2.1-.6 2.8-.4.7-1.2 1-2.4 1s-2-.3-2.4-1c-.4-.7-.6-1.6-.6-2.8V5H7.5v6.2c0 1.5.4 2.7 1.1 3.5.8.9 1.9 1.3 3.4 1.3z"
@@ -34496,7 +34496,7 @@ function TextDecorationControl(_ref) {
  */
 
 const justifyLeft = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M9 9v6h11V9H9zM4 20h1.5V4H4v16z"
@@ -40220,7 +40220,7 @@ function useCommonSingleMultipleSelects() {
  */
 
 const alignCenter = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M16.4 4.2H7.6v1.5h8.9V4.2zM4 11.2v1.5h16v-1.5H4zm3.6 8.6h8.9v-1.5H7.6v1.5z"
@@ -40781,7 +40781,7 @@ Object(external_wp_compose_["ifCondition"])(_ref6 => {
  */
 
 const media = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M18.7 3H5.3C4 3 3 4 3 5.3v13.4C3 20 4 21 5.3 21h13.4c1.3 0 2.3-1 2.3-2.3V5.3C21 4 20 3 18.7 3zm.8 15.7c0 .4-.4.8-.8.8H5.3c-.4 0-.8-.4-.8-.8V5.3c0-.4.4-.8.8-.8h13.4c.4 0 .8.4.8.8v13.4zM10 15l5-3-5-3v6z"
@@ -41166,7 +41166,7 @@ function clonePath(path) {
  */
 
 const justifyRight = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M4 15h11V9H4v6zM18.5 4v16H20V4h-1.5z"
@@ -45061,7 +45061,7 @@ ${selector} {
 }
 `;
   return Object(external_wp_element_["createElement"])(external_wp_element_["Fragment"], null, Object(external_wp_element_["createElement"])(external_wp_components_["SVG"], {
-    xmlnsXlink: "https://www.w3.org/1999/xlink",
+    xmlnsXlink: "http://www.w3.org/1999/xlink",
     viewBox: "0 0 0 0",
     width: "0",
     height: "0",
@@ -46121,7 +46121,7 @@ var traverse_default = /*#__PURE__*/__webpack_require__.n(traverse);
 /* eslint-disable @wordpress/no-unused-vars-before-return */
 // Adapted from https://github.com/reworkcss/css
 // because we needed to remove source map support.
-// https://www.w3.org/TR/CSS21/grammar.htm
+// http://www.w3.org/TR/CSS21/grammar.htm
 // https://github.com/visionmedia/css-parse/pull/49#issuecomment-30088027
 const commentre = /\/\*[^*]*\*+([^/*][^*]*\*+)*\//g;
 /* harmony default export */ var parse = (function (css, options) {
@@ -46340,7 +46340,7 @@ const commentre = /\/\*[^*]*\*+([^/*][^*]*\*+)*\//g;
 
     if (!m) {
       return;
-    } // FIXME: Remove all comments from selectors https://ostermiller.org/findcomment.html
+    } // FIXME: Remove all comments from selectors http://ostermiller.org/findcomment.html
 
 
     return trim(m[0]).replace(/\/\*([^*]|[\r\n]|(\*+([^*/]|[\r\n])))*\*\/+/g, '').replace(/"(?:\\"|[^"])*"|'(?:\\'|[^'])*'/g, function (matched) {
@@ -47572,7 +47572,7 @@ var external_wp_primitives_ = __webpack_require__("Tqx9");
  */
 
 const alignNone = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M5 15h14V9H5v6zm0 4.8h14v-1.5H5v1.5zM5 4.2v1.5h14V4.2H5z"
@@ -47587,7 +47587,7 @@ const alignNone = Object(external_wp_element_["createElement"])(external_wp_prim
  */
 
 const positionLeft = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M4 9v6h14V9H4zm8-4.8H4v1.5h8V4.2zM4 19.8h8v-1.5H4v1.5z"
@@ -47605,7 +47605,7 @@ var position_center = __webpack_require__("EpZT");
  */
 
 const positionRight = Object(external_wp_element_["createElement"])(external_wp_primitives_["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(external_wp_element_["createElement"])(external_wp_primitives_["Path"], {
   d: "M6 15h14V9H6v6zm6-10.8v1.5h8V4.2h-8zm0 15.6h8v-1.5h-8v1.5z"
@@ -47852,7 +47852,7 @@ function LayoutStyle(_ref) {
  */
 
 const close = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M13 11.8l6.1-6.3-1-1-6.1 6.2-6.1-6.2-1 1 6.1 6.3-6.5 6.7 1 1 6.5-6.6 6.5 6.6 1-1z"
@@ -48167,7 +48167,7 @@ function _extends() {
  */
 
 const stack = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M20.2 8v11c0 .7-.6 1.2-1.2 1.2H6v1.5h13c1.5 0 2.7-1.2 2.7-2.8V8zM18 16.4V4.6c0-.9-.7-1.6-1.6-1.6H4.6C3.7 3 3 3.7 3 4.6v11.8c0 .9.7 1.6 1.6 1.6h11.8c.9 0 1.6-.7 1.6-1.6zm-13.5 0V4.6c0-.1.1-.1.1-.1h11.8c.1 0 .1.1.1.1v11.8c0 .1-.1.1-.1.1H4.6l-.1-.1z"
@@ -48888,7 +48888,7 @@ function WrappedBlockPopover(_ref2) {
 const dragHandle = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
   width: "18",
   height: "18",
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 18 18"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M5 4h2V2H5v2zm6-2v2h2V2h-2zm-6 8h2V8H5v2zm6 0h2V8h-2v2zm-6 6h2v-2H5v2zm6 0h2v-2h-2v2z"
@@ -50341,7 +50341,7 @@ function BlockSelectionClearer(props) {
  */
 
 const alignRight = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "https://www.w3.org/2000/svg",
+  xmlns: "http://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M11.1 19.8H20v-1.5h-8.9v1.5zm0-15.6v1.5H20V4.2h-8.9zM4 12.8h16v-1.5H4v1.5z"

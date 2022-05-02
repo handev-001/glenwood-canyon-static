@@ -4,8 +4,8 @@
  * Released under LGPL License.
  * Copyright (c) 1999-2017 Ephox Corp. All rights reserved
  *
- * License: https://www.tinymce.com/license
- * Contributing: https://www.tinymce.com/contributing
+ * License: http://www.tinymce.com/license
+ * Contributing: http://www.tinymce.com/contributing
  */
 
 /*jshint globals: tinyMCEPopup */

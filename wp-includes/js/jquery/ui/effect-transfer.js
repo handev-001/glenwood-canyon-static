@@ -1,17 +1,17 @@
 /*!
  * jQuery UI Effects Transfer 1.13.1
- * https://jqueryui.com
+ * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
  * Released under the MIT license.
- * https://jquery.org/license
+ * http://jquery.org/license
  */
 
 //>>label: Transfer Effect
 //>>group: Effects
 //>>description: Displays a transfer effect from one element to another.
-//>>docs: https://api.jqueryui.com/transfer-effect/
-//>>demos: https://jqueryui.com/effect/
+//>>docs: http://api.jqueryui.com/transfer-effect/
+//>>demos: http://jqueryui.com/effect/
 
 ( function( factory ) {
 	"use strict";

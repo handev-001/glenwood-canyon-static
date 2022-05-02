@@ -1,17 +1,17 @@
 /*!
  * jQuery UI Effects Pulsate 1.13.1
- * https://jqueryui.com
+ * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
  * Released under the MIT license.
- * https://jquery.org/license
+ * http://jquery.org/license
  */
 
 //>>label: Pulsate Effect
 //>>group: Effects
 //>>description: Pulsates an element n times by changing the opacity to zero and back.
-//>>docs: https://api.jqueryui.com/pulsate-effect/
-//>>demos: https://jqueryui.com/effect/
+//>>docs: http://api.jqueryui.com/pulsate-effect/
+//>>demos: http://jqueryui.com/effect/
 
 ( function( factory ) {
 	"use strict";

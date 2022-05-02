@@ -1,17 +1,17 @@
 /*!
  * jQuery UI Spinner 1.13.1
- * https://jqueryui.com
+ * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
  * Released under the MIT license.
- * https://jquery.org/license
+ * http://jquery.org/license
  */
 
 //>>label: Spinner
 //>>group: Widgets
 //>>description: Displays buttons to easily input numbers via the keyboard or mouse.
-//>>docs: https://api.jqueryui.com/spinner/
-//>>demos: https://jqueryui.com/spinner/
+//>>docs: http://api.jqueryui.com/spinner/
+//>>demos: http://jqueryui.com/spinner/
 //>>css.structure: ../../themes/base/core.css
 //>>css.structure: ../../themes/base/spinner.css
 //>>css.theme: ../../themes/base/theme.css

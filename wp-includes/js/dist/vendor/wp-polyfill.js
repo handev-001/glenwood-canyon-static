@@ -1,7 +1,7 @@
 /**
  * core-js 3.19.1
  * https://github.com/zloirock/core-js
- * License: https://rock.mit-license.org
+ * License: http://rock.mit-license.org
  * © 2021 Denis Pushkarev (zloirock.ru)
  */
 !function (undefined) { 'use strict'; /******/ (function(modules) { // webpackBootstrap
@@ -2071,13 +2071,13 @@ var task = __webpack_require__(86);
 
 var FORCED = !global.setImmediate || !global.clearImmediate;
 
-// https://w3c.github.io/setImmediate/
+// http://w3c.github.io/setImmediate/
 $({ global: true, bind: true, enumerable: true, forced: FORCED }, {
   // `setImmediate` method
-  // https://w3c.github.io/setImmediate/#si-setImmediate
+  // http://w3c.github.io/setImmediate/#si-setImmediate
   setImmediate: task.set,
   // `clearImmediate` method
-  // https://w3c.github.io/setImmediate/#si-clearImmediate
+  // http://w3c.github.io/setImmediate/#si-clearImmediate
   clearImmediate: task.clear
 });
 

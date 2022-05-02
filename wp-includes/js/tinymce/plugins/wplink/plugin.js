@@ -262,7 +262,7 @@
 				}
 
 				if ( ! /^(?:[a-z]+:|#|\?|\.|\/)/.test( href ) && ! emailRegex.test( href ) ) {
-					href = 'https://' + href;
+					href = 'http://' + href;
 				}
 
 				editor.dom.setAttribs( linkNode, { href: href, 'data-wplink-edit': null } );

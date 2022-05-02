@@ -1,16 +1,16 @@
 /*!
  * jQuery UI Mouse 1.13.1
- * https://jqueryui.com
+ * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
  * Released under the MIT license.
- * https://jquery.org/license
+ * http://jquery.org/license
  */
 
 //>>label: Mouse
 //>>group: Widgets
 //>>description: Abstracts mouse-based interactions to assist in creating certain widgets.
-//>>docs: https://api.jqueryui.com/mouse/
+//>>docs: http://api.jqueryui.com/mouse/
 
 ( function( factory ) {
 	"use strict";
