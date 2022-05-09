@@ -4334,9 +4334,9 @@ button.slick-arrow:hover , button.slick-arrow:focus{background: #000; color: #ff
 button.slick-arrow:before{content: ""; font-size: 22px; background-size: 100%; height: 21px; width: 28px; background-repeat: no-repeat; background-position: center center;     position: absolute;    top: 50%;    margin-top: -10px;    left: 0;    right: 0;    margin: -10px auto 0; display: block;}
 
 button.slick-prev {left: 0;}
-button.slick-prev:before{background-image: url(https://glenwoodcanyonresort.netlify.app/wp-content/themes/glenwood/assets/images/slider-left-arrw.svg);}
+button.slick-prev:before{background-image: url(https://glenwoodcanyonresort.com/wp-content/themes/glenwood/assets/images/slider-left-arrw.svg);}
 button.slick-next {right: 0;}
-button.slick-next:before {background-image: url(https://glenwoodcanyonresort.netlify.app/wp-content/themes/glenwood/assets/images/slider-right-arrw.svg);}
+button.slick-next:before {background-image: url(https://glenwoodcanyonresort.com/wp-content/themes/glenwood/assets/images/slider-right-arrw.svg);}
 
 
 .home-banner-slider button.slick-prev{left: 30px;}
@@ -4351,7 +4351,7 @@ button.slick-next:before {background-image: url(https://glenwoodcanyonresort.net
 /*-- footer sec --*/
 
 .text-center{text-align: center;}
-.stay-touch-sec{background-image: url(https://glenwoodcanyonresort.netlify.app/wp-content/themes/glenwood/assets/images/stay-touch-bg.jpg); background-size: auto; background-position: left top; background-repeat: repeat; color: #fff;
+.stay-touch-sec{background-image: url(https://glenwoodcanyonresort.com/wp-content/themes/glenwood/assets/images/stay-touch-bg.jpg); background-size: auto; background-position: left top; background-repeat: repeat; color: #fff;
 	padding: 78px 0 77px; border-top: 1px solid #4e646f; border-bottom: 1px solid #4e646f;}
 .col-center{float: none; margin: 0 auto; display: block;}
 .stay-touch-sec h2{color: #fff; margin-bottom: 26px;}
@@ -4383,7 +4383,7 @@ button.slick-next:before {background-image: url(https://glenwoodcanyonresort.net
 
 
 .foo-main{}
-.foo-bg{background-image: url(https://glenwoodcanyonresort.netlify.app/wp-content/themes/glenwood/assets/images/foo-bg.jpg); background-repeat: repeat; background-position: left top; background-size: auto; }
+.foo-bg{background-image: url(https://glenwoodcanyonresort.com/wp-content/themes/glenwood/assets/images/foo-bg.jpg); background-repeat: repeat; background-position: left top; background-size: auto; }
 .foo-sec{ padding: 67px 0 56px; color: #fff;}
 .foo-menu{}
 .foo-menu ul{padding: 0; margin: 0; list-style: none;}
@@ -4422,7 +4422,7 @@ button.slick-next:before {background-image: url(https://glenwoodcanyonresort.net
 
 /*-- home-mid-sec --*/
 
-.home-mid-sec{background-image: url(https://glenwoodcanyonresort.netlify.app/wp-content/themes/glenwood/assets/images/home-mid-bg.jpg); background-size: auto; background-repeat: repeat; background-position:left  top; color: #fff; padding: 15px 0 0;}
+.home-mid-sec{background-image: url(https://glenwoodcanyonresort.com/wp-content/themes/glenwood/assets/images/home-mid-bg.jpg); background-size: auto; background-repeat: repeat; background-position:left  top; color: #fff; padding: 15px 0 0;}
 
 .promo-area{}
 
@@ -4495,8 +4495,8 @@ button.slick-next:before {background-image: url(https://glenwoodcanyonresort.net
 .view-more{font-weight: 700; font-size: 18px; color: #d15a26;}
 .view-more:hover , .view-more:focus{color:#000; text-decoration: underline;}
 .home-cta-col .arrow-btn{display: block; margin-top: 73px; }
-.arrow-btn{ line-height: 1; font-family: 'Vesper Libre', serif; font-weight: 500; font-size: 30px; color: #f4e5d3; background-color: #bf5223; /*background-image: url(https://glenwoodcanyonresort.netlify.app/wp-content/themes/glenwood/assets/images/cta-bg.jpg);*/ background-repeat: repeat; background-position:  left top; background-size: auto; position: relative; padding: 48px 43px 36px; text-align: left; }
-.arrow-btn:before{background: url(https://glenwoodcanyonresort.netlify.app/wp-content/themes/glenwood/assets/images/right-arrw.svg); background-size: 100%; background-position: center center; background-repeat: no-repeat; position: absolute; content: "";width: 22px; height: 17px; display: block; position: absolute; top: 50%; transform: translateY(-50%); -webkit-transform: translateY(-50%); -ms-transform: translateY(-50%); -o-transform: translateY(-50%); -moz-transform: translateY(-50%); right: 41px; }
+.arrow-btn{ line-height: 1; font-family: 'Vesper Libre', serif; font-weight: 500; font-size: 30px; color: #f4e5d3; background-color: #bf5223; /*background-image: url(https://glenwoodcanyonresort.com/wp-content/themes/glenwood/assets/images/cta-bg.jpg);*/ background-repeat: repeat; background-position:  left top; background-size: auto; position: relative; padding: 48px 43px 36px; text-align: left; }
+.arrow-btn:before{background: url(https://glenwoodcanyonresort.com/wp-content/themes/glenwood/assets/images/right-arrw.svg); background-size: 100%; background-position: center center; background-repeat: no-repeat; position: absolute; content: "";width: 22px; height: 17px; display: block; position: absolute; top: 50%; transform: translateY(-50%); -webkit-transform: translateY(-50%); -ms-transform: translateY(-50%); -o-transform: translateY(-50%); -moz-transform: translateY(-50%); right: 41px; }
 .arrow-btn:hover , .arrow-btn:focus{background-color: #ae4b20; color: #f4e5d3; background-image: none;}
 .arrow-btn:hover:before{    -webkit-animation-name: link-animation;
     animation-name: link-animation;
@@ -4612,7 +4612,7 @@ blockquote{font-size: 30px; line-height: 1.2; color: #28180d; border: 0; padding
 
 .panel-default > .panel-heading{padding: 0; margin: 0 0 0; border: 0; background: transparent; border-radius: 0;}
 .panel-title{font-size: 24px; font-weight: 700; font-family: 'Chivo', sans-serif; padding: 0; margin: 0;}
-.panel-title a{display: block; background-image: url(https://glenwoodcanyonresort.netlify.app/wp-content/themes/glenwood/assets/images/home-mid-bg.jpg); background-repeat:repeat; background-position: left top; background-size: auto; color: #fff; padding: 15px; padding: 34px 65px 34px 41px; position: relative; text-decoration: none;}
+.panel-title a{display: block; background-image: url(https://glenwoodcanyonresort.com/wp-content/themes/glenwood/assets/images/home-mid-bg.jpg); background-repeat:repeat; background-position: left top; background-size: auto; color: #fff; padding: 15px; padding: 34px 65px 34px 41px; position: relative; text-decoration: none;}
 .panel-title a:before{content: "\f107"; font-family: FontAwesome; position: absolute; right: 25px; top: 50%; transform: translateY(-50%); -webkit-transform: translateY(-50%); -ms-transform: translateY(-50%); -o-transform: translateY(-50%); -moz-transform: translateY(-50%);}
 .panel-title a[aria-expanded="true"]:before{content: "\f106";}
 .panel-title a:hover , .panel-title a:focus{color: #d15a26;}
@@ -4622,7 +4622,7 @@ blockquote{font-size: 30px; line-height: 1.2; color: #28180d; border: 0; padding
 .panel-group .panel + .panel{border: 0; margin-top: 0; border-radius: 0;}
 .panel-group .panel{border-radius: 0; margin-bottom: 20px;}
 
-.panel-body{color: #fff; background-image: url(https://glenwoodcanyonresort.netlify.app/wp-content/themes/glenwood/assets/images/home-mid-bg.jpg); background-repeat:repeat; background-position: left top; background-size: auto; color: #fff;  padding: 17px 41px 6px;}
+.panel-body{color: #fff; background-image: url(https://glenwoodcanyonresort.com/wp-content/themes/glenwood/assets/images/home-mid-bg.jpg); background-repeat:repeat; background-position: left top; background-size: auto; color: #fff;  padding: 17px 41px 6px;}
 .panel-body > h1,
 .panel-body > h2,
 .panel-body > h3,
@@ -4773,8 +4773,8 @@ button.slick-arrow{padding: 0;}
 .mfp-arrow:before , .mfp-arrow:after{ display: none;}
 
  button.mfp-arrow{width: 15px; height: 11px; padding: 0; margin: 0; background-size: 100%; background-position: center center; background-repeat: no-repeat; display: block; background-color: transparent; border: 0; border-radius: 0;}
- button.mfp-arrow.mfp-arrow-left{background-image: url(https://glenwoodcanyonresort.netlify.app/wp-content/themes/glenwood/assets/images/slider-left-arrw.svg);}
- button.mfp-arrow.mfp-arrow-right{background-image: url(https://glenwoodcanyonresort.netlify.app/wp-content/themes/glenwood/assets/images/slider-right-arrw.svg);}
+ button.mfp-arrow.mfp-arrow-left{background-image: url(https://glenwoodcanyonresort.com/wp-content/themes/glenwood/assets/images/slider-left-arrw.svg);}
+ button.mfp-arrow.mfp-arrow-right{background-image: url(https://glenwoodcanyonresort.com/wp-content/themes/glenwood/assets/images/slider-right-arrw.svg);}
 
  button.mfp-arrow:hover ,  button.mfp-arrow:focus{background-color: transparent;}
 
@@ -4861,7 +4861,7 @@ a.content-link-col:hover , a.content-link-col:focus{color: #d15a26;}
 
 
 
-.lodging-title-sec{background-image: url(https://glenwoodcanyonresort.netlify.app/wp-content/themes/glenwood/assets/images/stay-touch-bg.jpg); background-size: auto; background-position: left top; background-repeat: repeat; color: #fff;
+.lodging-title-sec{background-image: url(https://glenwoodcanyonresort.com/wp-content/themes/glenwood/assets/images/stay-touch-bg.jpg); background-size: auto; background-position: left top; background-repeat: repeat; color: #fff;
 	padding: 71px 0 53px; color: #fff;}
 
 	.lodging-title-sec h1{font-weight: 700; color: #fff; margin: 0 0 34px;}
@@ -4886,7 +4886,7 @@ a.content-link-col:hover , a.content-link-col:focus{color: #d15a26;}
 
 /*-- accommodation detail page --*/
 
-.accommodation-banner-sec{ overflow-x: hidden; background-image: url(https://glenwoodcanyonresort.netlify.app/wp-content/themes/glenwood/assets/images/stay-touch-bg.jpg); background-size: auto; background-position: left top; background-repeat: repeat; color: #fff;
+.accommodation-banner-sec{ overflow-x: hidden; background-image: url(https://glenwoodcanyonresort.com/wp-content/themes/glenwood/assets/images/stay-touch-bg.jpg); background-size: auto; background-position: left top; background-repeat: repeat; color: #fff;
 	}
 
 .accommodation-banner-img{padding-bottom: 66.5%; background-size: cover; background-position: center center; background-repeat: no-repeat; display: block;}
@@ -4957,7 +4957,7 @@ a.content-link-col:hover , a.content-link-col:focus{color: #d15a26;}
 .package-list > ul{padding: 0; margin: 0; list-style: none;}
 .package-list > ul > li{margin: 0 0 40px;}
 
-.package-col{background-image: url(https://glenwoodcanyonresort.netlify.app/wp-content/themes/glenwood/assets/images/home-mid-bg.jpg); background-size: auto; background-position: left top; background-repeat: repeat; color: #fff;  text-align: center; color: #fff; font-size: 16px; line-height: 1.5;}
+.package-col{background-image: url(https://glenwoodcanyonresort.com/wp-content/themes/glenwood/assets/images/home-mid-bg.jpg); background-size: auto; background-position: left top; background-repeat: repeat; color: #fff;  text-align: center; color: #fff; font-size: 16px; line-height: 1.5;}
 .package-col p{ }
 .package-detail{padding: 36px 30px 0;}
 .package-detail h3{font-size: 32px; color: #fff; font-weight: 700; margin: 0 0 25px;}
@@ -4991,7 +4991,7 @@ a.content-link-col:hover , a.content-link-col:focus{color: #d15a26;}
 
 
 .subpage-nav-selectbox{display: none;}
-.subpage-nav-selectbox select{     background-color: #fdfcf9; font-size: 14px; background-image: url(https://glenwoodcanyonresort.netlify.app/wp-content/themes/glenwood/assets/images/select-arrw.png); background-repeat: no-repeat; background-size: 14px; background-position: 64% center; display: block; width: 100%; border: 0; color: #d15a26; padding: 7px 15px 5px 35%;  -webkit-appearance: none;    -moz-appearance: none;    text-indent: 1px;    text-overflow: ''; height: auto; display: block;}
+.subpage-nav-selectbox select{     background-color: #fdfcf9; font-size: 14px; background-image: url(https://glenwoodcanyonresort.com/wp-content/themes/glenwood/assets/images/select-arrw.png); background-repeat: no-repeat; background-size: 14px; background-position: 64% center; display: block; width: 100%; border: 0; color: #d15a26; padding: 7px 15px 5px 35%;  -webkit-appearance: none;    -moz-appearance: none;    text-indent: 1px;    text-overflow: ''; height: auto; display: block;}
 
 
 .mobile-features.sidebar-features{display: none;}
@@ -5056,7 +5056,7 @@ a.content-link-col:hover , a.content-link-col:focus{color: #d15a26;}
 .popup-package-detail .mfp-content{  }
 
 
-.popup-package-detail.mfp-bg{  background-image: url(https://glenwoodcanyonresort.netlify.app/wp-content/themes/glenwood/assets/images/home-mid-bg.jpg);    background-size: auto;    background-position: left top;    background-repeat: repeat; opacity: 1 !important;}
+.popup-package-detail.mfp-bg{  background-image: url(https://glenwoodcanyonresort.com/wp-content/themes/glenwood/assets/images/home-mid-bg.jpg);    background-size: auto;    background-position: left top;    background-repeat: repeat; opacity: 1 !important;}
 
 
 .popup-scroll h3{text-align: center;}
