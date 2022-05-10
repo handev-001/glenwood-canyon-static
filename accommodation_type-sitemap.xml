@@ -1,31 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//glenwoodcanyonresort.test/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//glenwoodcanyonresort.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://glenwoodcanyonresort.test/?accommodation_type=camping</loc>
+		<loc>http://glenwoodcanyonresort.com/?accommodation_type=camping</loc>
 		<lastmod>2022-03-28T17:22:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://glenwoodcanyonresort.test/?accommodation_type=glamping-tents</loc>
+		<loc>http://glenwoodcanyonresort.com/?accommodation_type=glamping-tents</loc>
 		<lastmod>2022-03-28T21:27:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://glenwoodcanyonresort.test/?accommodation_type=lodging</loc>
+		<loc>http://glenwoodcanyonresort.com/?accommodation_type=lodging</loc>
 		<lastmod>2022-03-10T20:07:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://glenwoodcanyonresort.test/?accommodation_type=monthly-rentals</loc>
+		<loc>http://glenwoodcanyonresort.com/?accommodation_type=monthly-rentals</loc>
 		<lastmod>2022-03-21T18:19:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://glenwoodcanyonresort.test/?accommodation_type=multi-purpose-sites</loc>
+		<loc>http://glenwoodcanyonresort.com/?accommodation_type=multi-purpose-sites</loc>
 		<lastmod>2022-03-28T17:22:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://glenwoodcanyonresort.test/?accommodation_type=rv-sites</loc>
+		<loc>http://glenwoodcanyonresort.com/?accommodation_type=rv-sites</loc>
 		<lastmod>2022-03-28T17:08:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://glenwoodcanyonresort.test/?accommodation_type=tent-sites</loc>
+		<loc>http://glenwoodcanyonresort.com/?accommodation_type=tent-sites</loc>
 		<lastmod>2021-07-12T21:30:41+00:00</lastmod>
 	</url>
 </urlset>

@@ -1,59 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//glenwoodcanyonresort.test/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//glenwoodcanyonresort.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://glenwoodcanyonresort.test/blog/</loc>
+		<loc>http://glenwoodcanyonresort.com/blog/</loc>
 		<lastmod>2022-04-25T14:25:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://glenwoodcanyonresort.test/3-reasons-to-choose-glenwood-canyon-resort-for-an-outdoor-wedding/</loc>
+		<loc>http://glenwoodcanyonresort.com/3-reasons-to-choose-glenwood-canyon-resort-for-an-outdoor-wedding/</loc>
 		<lastmod>2022-04-25T14:25:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://glenwoodcanyonresort.test/3-reasons-why-you-should-consider-an-outdoor-wedding/</loc>
+		<loc>http://glenwoodcanyonresort.com/3-reasons-why-you-should-consider-an-outdoor-wedding/</loc>
 		<lastmod>2022-04-25T14:25:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://glenwoodcanyonresort.test/4-tips-for-throwing-a-mountain-wedding/</loc>
+		<loc>http://glenwoodcanyonresort.com/4-tips-for-throwing-a-mountain-wedding/</loc>
 		<lastmod>2022-04-25T14:25:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://glenwoodcanyonresort.test/cozy-cabins-part-of-glenwood-canyon-allure/</loc>
+		<loc>http://glenwoodcanyonresort.com/cozy-cabins-part-of-glenwood-canyon-allure/</loc>
 		<lastmod>2022-04-25T14:25:29+00:00</lastmod>
 		<image:image>
-			<image:loc>http://glenwoodcanyonresort.test/wp-content/uploads/2019/03/Kitchen-loft.jpg</image:loc>
+			<image:loc>http://glenwoodcanyonresort.com/wp-content/uploads/2019/03/Kitchen-loft.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://glenwoodcanyonresort.test/things-to-do-in-glenwood-springs-in-spring-summer/</loc>
+		<loc>http://glenwoodcanyonresort.com/things-to-do-in-glenwood-springs-in-spring-summer/</loc>
 		<lastmod>2022-04-25T14:25:29+00:00</lastmod>
 		<image:image>
-			<image:loc>http://glenwoodcanyonresort.test/wp-content/uploads/2019/03/maroon-bells-2.jpg</image:loc>
+			<image:loc>http://glenwoodcanyonresort.com/wp-content/uploads/2019/03/maroon-bells-2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://glenwoodcanyonresort.test/luxury-glamping-comes-to-glenwood-canyon-resort/</loc>
+		<loc>http://glenwoodcanyonresort.com/luxury-glamping-comes-to-glenwood-canyon-resort/</loc>
 		<lastmod>2022-04-25T14:25:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://glenwoodcanyonresort.test/face-your-fear-of-adventure-at-glenwood-canyon-resort/</loc>
+		<loc>http://glenwoodcanyonresort.com/face-your-fear-of-adventure-at-glenwood-canyon-resort/</loc>
 		<lastmod>2022-04-25T14:25:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://glenwoodcanyonresort.test/4-ways-to-make-your-outdoor-wedding-in-colorado-unforgettable/</loc>
+		<loc>http://glenwoodcanyonresort.com/4-ways-to-make-your-outdoor-wedding-in-colorado-unforgettable/</loc>
 		<lastmod>2022-04-25T14:25:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://glenwoodcanyonresort.test/why-you-should-have-your-outdoor-wedding-in-colorado/</loc>
+		<loc>http://glenwoodcanyonresort.com/why-you-should-have-your-outdoor-wedding-in-colorado/</loc>
 		<lastmod>2022-04-25T14:25:30+00:00</lastmod>
 		<image:image>
-			<image:loc>http://glenwoodcanyonresort.test/wp-content/uploads/2018/02/image1.jpg</image:loc>
+			<image:loc>http://glenwoodcanyonresort.com/wp-content/uploads/2018/02/image1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://glenwoodcanyonresort.test/the-best-camping-grounds-in-colorado/</loc>
+		<loc>http://glenwoodcanyonresort.com/the-best-camping-grounds-in-colorado/</loc>
 		<lastmod>2022-04-25T14:25:30+00:00</lastmod>
 		<image:image>
-			<image:loc>http://glenwoodcanyonresort.test/wp-content/uploads/2018/02/33c2.jpg</image:loc>
+			<image:loc>http://glenwoodcanyonresort.com/wp-content/uploads/2018/02/33c2.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
