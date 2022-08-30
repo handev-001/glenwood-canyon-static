@@ -1,238 +1,238 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//dev.gcresort.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//glenwoodcanyonresort.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://dev.gcresort.com/</loc>
+		<loc>https://glenwoodcanyonresort.com/</loc>
 		<lastmod>2022-08-30T16:59:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/style-sheet-shortcode/</loc>
+		<loc>https://glenwoodcanyonresort.com/style-sheet-shortcode/</loc>
 		<lastmod>2018-03-11T21:57:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/style-sheet/</loc>
+		<loc>https://glenwoodcanyonresort.com/style-sheet/</loc>
 		<lastmod>2018-04-12T17:44:58+00:00</lastmod>
 		<image:image>
-			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/02/style-banner.jpg</image:loc>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/02/style-banner.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/accommodations/glenwood-springs-tent-sites/</loc>
+		<loc>https://glenwoodcanyonresort.com/accommodations/glenwood-springs-tent-sites/</loc>
 		<lastmod>2018-05-15T20:24:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/contact/</loc>
+		<loc>https://glenwoodcanyonresort.com/contact/</loc>
 		<lastmod>2018-05-22T20:38:52+00:00</lastmod>
 		<image:image>
-			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/05/lower-campgroud.jpg</image:loc>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/lower-campgroud.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/about/</loc>
+		<loc>https://glenwoodcanyonresort.com/about/</loc>
 		<lastmod>2018-05-23T13:14:30+00:00</lastmod>
 		<image:image>
-			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/05/glenwood-canyon.jpg</image:loc>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/glenwood-canyon.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/careers/</loc>
+		<loc>https://glenwoodcanyonresort.com/careers/</loc>
 		<lastmod>2018-05-23T13:20:27+00:00</lastmod>
 		<image:image>
-			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/05/rafting-clear-creek-1.jpg</image:loc>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/rafting-clear-creek-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/contact/map-directions/</loc>
+		<loc>https://glenwoodcanyonresort.com/contact/map-directions/</loc>
 		<lastmod>2018-05-23T13:33:23+00:00</lastmod>
 		<image:image>
-			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/05/resort-cabins-mountains-1.jpg</image:loc>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/resort-cabins-mountains-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/policies-rules/resort-policy-and-guidelines-agreement/resort-policy-and-guidelines-agreement-confirmation/</loc>
+		<loc>https://glenwoodcanyonresort.com/policies-rules/resort-policy-and-guidelines-agreement/resort-policy-and-guidelines-agreement-confirmation/</loc>
 		<lastmod>2018-07-19T16:56:53+00:00</lastmod>
 		<image:image>
-			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/05/bar-grill-flowers.jpg</image:loc>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/bar-grill-flowers.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/accommodations/glenwood-springs-rv-sites/</loc>
+		<loc>https://glenwoodcanyonresort.com/accommodations/glenwood-springs-rv-sites/</loc>
 		<lastmod>2018-11-30T02:11:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/glenwood-canyon-resorts-message-regarding-covid-19/</loc>
+		<loc>https://glenwoodcanyonresort.com/glenwood-canyon-resorts-message-regarding-covid-19/</loc>
 		<lastmod>2020-11-03T17:33:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/fabulous-camping-options/</loc>
+		<loc>https://glenwoodcanyonresort.com/fabulous-camping-options/</loc>
 		<lastmod>2022-03-21T18:21:39+00:00</lastmod>
 		<image:image>
-			<image:loc>https://dev.gcresort.com/wp-content/uploads/2021/05/iStock-867402286_1080x720.jpg</image:loc>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2021/05/iStock-867402286_1080x720.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/policies-rules/privacy-policy/</loc>
+		<loc>https://glenwoodcanyonresort.com/policies-rules/privacy-policy/</loc>
 		<lastmod>2022-03-21T18:23:23+00:00</lastmod>
 		<image:image>
-			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/05/zipline-over-river.jpg</image:loc>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/zipline-over-river.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/why-choose-us/</loc>
+		<loc>https://glenwoodcanyonresort.com/why-choose-us/</loc>
 		<lastmod>2022-04-21T19:04:18+00:00</lastmod>
 		<image:image>
-			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/12/Scenic-surroundings.jpg</image:loc>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/12/Scenic-surroundings.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/policies-rules/</loc>
+		<loc>https://glenwoodcanyonresort.com/policies-rules/</loc>
 		<lastmod>2022-04-21T19:35:25+00:00</lastmod>
 		<image:image>
-			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/05/bar-grill-flowers.jpg</image:loc>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/bar-grill-flowers.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/policies-rules/resort-policy-and-guidelines-agreement/</loc>
+		<loc>https://glenwoodcanyonresort.com/policies-rules/resort-policy-and-guidelines-agreement/</loc>
 		<lastmod>2022-04-29T17:47:53+00:00</lastmod>
 		<image:image>
-			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/05/bar-grill-flowers.jpg</image:loc>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/bar-grill-flowers.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/groups-events/request-group-event-info/</loc>
+		<loc>https://glenwoodcanyonresort.com/groups-events/request-group-event-info/</loc>
 		<lastmod>2022-04-29T17:58:46+00:00</lastmod>
 		<image:image>
-			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/05/high-ropes-course-group.jpg</image:loc>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/high-ropes-course-group.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/weddings/request-more-wedding-info/</loc>
+		<loc>https://glenwoodcanyonresort.com/weddings/request-more-wedding-info/</loc>
 		<lastmod>2022-04-29T18:15:16+00:00</lastmod>
 		<image:image>
-			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/05/wedding-lodge-1.jpg</image:loc>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/wedding-lodge-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/accommodations/glenwood-springs-lodging/</loc>
+		<loc>https://glenwoodcanyonresort.com/accommodations/glenwood-springs-lodging/</loc>
 		<lastmod>2022-07-19T15:04:00+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/accommodations/glenwood-springs-camping/</loc>
+		<loc>https://glenwoodcanyonresort.com/accommodations/glenwood-springs-camping/</loc>
 		<lastmod>2022-07-19T15:05:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/weddings/food-catering/</loc>
+		<loc>https://glenwoodcanyonresort.com/weddings/food-catering/</loc>
 		<lastmod>2022-07-19T15:10:30+00:00</lastmod>
 		<image:image>
-			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/05/food-catering.jpg</image:loc>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/food-catering.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/weddings/</loc>
+		<loc>https://glenwoodcanyonresort.com/weddings/</loc>
 		<lastmod>2022-07-19T15:25:22+00:00</lastmod>
 		<image:image>
-			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/05/ian-wedding.jpg</image:loc>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/ian-wedding.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/accommodations/</loc>
+		<loc>https://glenwoodcanyonresort.com/accommodations/</loc>
 		<lastmod>2022-08-18T16:54:07+00:00</lastmod>
 		<image:image>
-			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/02/deluxe-resort-cabins.jpg</image:loc>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/02/deluxe-resort-cabins.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/weddings/wedding-venues/</loc>
+		<loc>https://glenwoodcanyonresort.com/weddings/wedding-venues/</loc>
 		<lastmod>2022-08-18T16:55:03+00:00</lastmod>
 		<image:image>
-			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/05/set-up-for-wedding-reception-1.jpg</image:loc>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/set-up-for-wedding-reception-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/groups-events/</loc>
+		<loc>https://glenwoodcanyonresort.com/groups-events/</loc>
 		<lastmod>2022-08-18T16:56:18+00:00</lastmod>
 		<image:image>
-			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/05/family-reunions.jpg</image:loc>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/family-reunions.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/packages/</loc>
+		<loc>https://glenwoodcanyonresort.com/packages/</loc>
 		<lastmod>2022-08-18T16:57:44+00:00</lastmod>
 		<image:image>
-			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/12/photo-1521478413868-1bbd982fa4a52.jpg</image:loc>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/12/photo-1521478413868-1bbd982fa4a52.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/activities/</loc>
+		<loc>https://glenwoodcanyonresort.com/activities/</loc>
 		<lastmod>2022-08-18T16:59:02+00:00</lastmod>
 		<image:image>
-			<image:loc>https://dev.gcresort.com/wp-content/uploads/2020/01/Glenwood-Canyon-Flyer-at-GCAP-LR.jpg</image:loc>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2020/01/Glenwood-Canyon-Flyer-at-GCAP-LR.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/weddings/packages/</loc>
+		<loc>https://glenwoodcanyonresort.com/weddings/packages/</loc>
 		<lastmod>2022-08-18T16:59:47+00:00</lastmod>
 		<image:image>
-			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/05/wedding-band.jpg</image:loc>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/wedding-band.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/groups-events/event-center-venues/</loc>
+		<loc>https://glenwoodcanyonresort.com/groups-events/event-center-venues/</loc>
 		<lastmod>2022-08-18T17:00:42+00:00</lastmod>
 		<image:image>
-			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/05/deck-no-name-bar-grill.jpg</image:loc>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/deck-no-name-bar-grill.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/activities/on-site-activities/</loc>
+		<loc>https://glenwoodcanyonresort.com/activities/on-site-activities/</loc>
 		<lastmod>2022-08-18T17:01:39+00:00</lastmod>
 		<image:image>
-			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/05/rafting-rapids-1.jpg</image:loc>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/rafting-rapids-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/dining/</loc>
+		<loc>https://glenwoodcanyonresort.com/dining/</loc>
 		<lastmod>2022-08-18T17:02:32+00:00</lastmod>
 		<image:image>
-			<image:loc>https://dev.gcresort.com/wp-content/uploads/2020/09/NNBG-ags-photo-scaled.jpg</image:loc>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2020/09/NNBG-ags-photo-scaled.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/activities/nearby-activities/</loc>
+		<loc>https://glenwoodcanyonresort.com/activities/nearby-activities/</loc>
 		<lastmod>2022-08-18T17:03:42+00:00</lastmod>
 		<image:image>
-			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/05/fly-fishing.jpg</image:loc>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/fly-fishing.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/accommodations/resort-map/</loc>
+		<loc>https://glenwoodcanyonresort.com/accommodations/resort-map/</loc>
 		<lastmod>2022-08-18T17:04:30+00:00</lastmod>
 		<image:image>
-			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/05/resort-aerial-1.jpg</image:loc>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/resort-aerial-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/weddings/photo-gallery/</loc>
+		<loc>https://glenwoodcanyonresort.com/weddings/photo-gallery/</loc>
 		<lastmod>2022-08-18T17:05:26+00:00</lastmod>
 		<image:image>
-			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/05/wedding-bouquet-toss.jpg</image:loc>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/wedding-bouquet-toss.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/monthly-rentals/</loc>
+		<loc>https://glenwoodcanyonresort.com/monthly-rentals/</loc>
 		<lastmod>2022-08-18T17:06:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/groups-events/types-of-groups/</loc>
+		<loc>https://glenwoodcanyonresort.com/groups-events/types-of-groups/</loc>
 		<lastmod>2022-08-18T17:09:24+00:00</lastmod>
 		<image:image>
-			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/05/outward-bound-group-1.jpg</image:loc>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/outward-bound-group-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://dev.gcresort.com/accommodations/resort-amenities/</loc>
+		<loc>https://glenwoodcanyonresort.com/accommodations/resort-amenities/</loc>
 		<lastmod>2022-08-18T17:10:59+00:00</lastmod>
 		<image:image>
-			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/05/canyon-club-lodge-1.jpg</image:loc>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/canyon-club-lodge-1.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
