@@ -82,6 +82,21 @@ a[target="_blank"]:after {
 # Content Area
 --------------------------------------------------------------*/
 
+body.page .job-listing .inner {
+	padding:1.2em 0;
+}
+body.page .job-listing .inner:nth-child(2n) {
+	background-color:#dddddd;
+}
+body.page .job-listing .entry-title,
+body.page .job-listing .entry-title:hover {
+	margin:0;
+	padding:0;
+	
+	font-size: 1.6em;
+	text-decoration:none;
+}
+
 /*--------------------------------------------------------------
 # Footer Area
 --------------------------------------------------------------*/
