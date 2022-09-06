@@ -1,108 +1,108 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//glenwoodcanyonresort.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//dev.gcresort.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://glenwoodcanyonresort.com/accommodation/camper-cabins/</loc>
+		<loc>https://dev.gcresort.com/accommodation/camper-cabins/</loc>
 		<lastmod>2021-07-12T20:16:08+00:00</lastmod>
 		<image:image>
-			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/02/camper-cabin.jpg</image:loc>
+			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/02/camper-cabin.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://glenwoodcanyonresort.com/accommodation/long-term-rv-site/</loc>
+		<loc>https://dev.gcresort.com/accommodation/long-term-rv-site/</loc>
 		<lastmod>2022-03-21T18:18:12+00:00</lastmod>
 		<image:image>
-			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/08/RV-sites.jpg</image:loc>
+			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/08/RV-sites.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://glenwoodcanyonresort.com/accommodation/resort-cabin/</loc>
+		<loc>https://dev.gcresort.com/accommodation/resort-cabin/</loc>
 		<lastmod>2022-03-21T18:19:27+00:00</lastmod>
 		<image:image>
-			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/08/DSC_0183.jpg</image:loc>
+			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/08/DSC_0183.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://glenwoodcanyonresort.com/accommodation/glamping/</loc>
+		<loc>https://dev.gcresort.com/accommodation/glamping/</loc>
 		<lastmod>2022-08-18T17:07:07+00:00</lastmod>
 		<image:image>
-			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2019/03/20190630_155323.jpg</image:loc>
+			<image:loc>https://dev.gcresort.com/wp-content/uploads/2019/03/20190630_155323.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://glenwoodcanyonresort.com/accommodation/river-tent-sites/</loc>
+		<loc>https://dev.gcresort.com/accommodation/river-tent-sites/</loc>
 		<lastmod>2022-08-18T17:14:51+00:00</lastmod>
 		<image:image>
-			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/02/picnic-table-camping.jpg</image:loc>
+			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/02/picnic-table-camping.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://glenwoodcanyonresort.com/accommodation/multi-purpose-sites/</loc>
+		<loc>https://dev.gcresort.com/accommodation/multi-purpose-sites/</loc>
 		<lastmod>2022-08-18T17:16:08+00:00</lastmod>
 		<image:image>
-			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/02/Multi-purpose-site.jpg</image:loc>
+			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/02/Multi-purpose-site.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://glenwoodcanyonresort.com/accommodation/deluxe-resort-cabins/</loc>
+		<loc>https://dev.gcresort.com/accommodation/deluxe-resort-cabins/</loc>
 		<lastmod>2022-08-18T17:20:51+00:00</lastmod>
 		<image:image>
-			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/02/home-intro-img1.jpg</image:loc>
+			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/02/home-intro-img1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://glenwoodcanyonresort.com/accommodation/canyon-club-suites/</loc>
+		<loc>https://dev.gcresort.com/accommodation/canyon-club-suites/</loc>
 		<lastmod>2022-08-18T17:27:39+00:00</lastmod>
 		<image:image>
-			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/12/canyon-club-suite.jpg</image:loc>
+			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/12/canyon-club-suite.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://glenwoodcanyonresort.com/accommodation/family-cabins/</loc>
+		<loc>https://dev.gcresort.com/accommodation/family-cabins/</loc>
 		<lastmod>2022-08-18T18:03:53+00:00</lastmod>
 		<image:image>
-			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/02/family-cabin-living-room.jpg</image:loc>
+			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/02/family-cabin-living-room.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://glenwoodcanyonresort.com/accommodation/cottages/</loc>
+		<loc>https://dev.gcresort.com/accommodation/cottages/</loc>
 		<lastmod>2022-08-18T18:10:37+00:00</lastmod>
 		<image:image>
-			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/02/cottage-featured-image.png</image:loc>
+			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/02/cottage-featured-image.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://glenwoodcanyonresort.com/accommodation/big-rig-rv-sites/</loc>
+		<loc>https://dev.gcresort.com/accommodation/big-rig-rv-sites/</loc>
 		<lastmod>2022-08-18T18:12:17+00:00</lastmod>
 		<image:image>
-			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/02/big-rig-rv-site.jpg</image:loc>
+			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/02/big-rig-rv-site.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://glenwoodcanyonresort.com/accommodation/family-modular/</loc>
+		<loc>https://dev.gcresort.com/accommodation/family-modular/</loc>
 		<lastmod>2022-08-18T18:14:37+00:00</lastmod>
 		<image:image>
-			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/08/family-cabin-kitchen-dining-crop.jpg</image:loc>
+			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/08/family-cabin-kitchen-dining-crop.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://glenwoodcanyonresort.com/accommodation/riverfront-camper-cabins/</loc>
+		<loc>https://dev.gcresort.com/accommodation/riverfront-camper-cabins/</loc>
 		<lastmod>2022-08-18T18:15:22+00:00</lastmod>
 		<image:image>
-			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/02/riverfront-camper-cabin-outdoors.jpg</image:loc>
+			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/02/riverfront-camper-cabin-outdoors.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://glenwoodcanyonresort.com/accommodation/riverfront-rv-sites/</loc>
+		<loc>https://dev.gcresort.com/accommodation/riverfront-rv-sites/</loc>
 		<lastmod>2022-08-18T18:16:40+00:00</lastmod>
 		<image:image>
-			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/03/rv-update.jpg</image:loc>
+			<image:loc>https://dev.gcresort.com/wp-content/uploads/2018/03/rv-update.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://glenwoodcanyonresort.com/accommodation/sprinter-village/</loc>
-		<lastmod>2022-08-30T16:51:02+00:00</lastmod>
+		<loc>https://dev.gcresort.com/accommodation/sprinter-village/</loc>
+		<lastmod>2022-09-06T19:03:19+00:00</lastmod>
 		<image:image>
-			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2022/07/Sprinter-Sign-scaled.jpg</image:loc>
+			<image:loc>https://dev.gcresort.com/wp-content/uploads/2022/07/Sprinter-Sign-scaled.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
