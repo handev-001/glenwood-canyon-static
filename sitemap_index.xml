@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//dev.gcresort.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//glenwoodcanyonresort.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://dev.gcresort.com/post-sitemap.xml</loc>
+		<loc>https://glenwoodcanyonresort.com/post-sitemap.xml</loc>
 		<lastmod>2022-09-06T19:43:01+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://dev.gcresort.com/page-sitemap.xml</loc>
+		<loc>https://glenwoodcanyonresort.com/page-sitemap.xml</loc>
 		<lastmod>2022-09-06T20:13:37+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://dev.gcresort.com/accommodation-sitemap.xml</loc>
+		<loc>https://glenwoodcanyonresort.com/accommodation-sitemap.xml</loc>
 		<lastmod>2022-09-06T19:03:19+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://dev.gcresort.com/category-sitemap.xml</loc>
+		<loc>https://glenwoodcanyonresort.com/category-sitemap.xml</loc>
 		<lastmod>2022-09-06T19:43:01+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://dev.gcresort.com/accommodation_type-sitemap.xml</loc>
+		<loc>https://glenwoodcanyonresort.com/accommodation_type-sitemap.xml</loc>
 		<lastmod>2022-09-06T19:03:19+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://dev.gcresort.com/author-sitemap.xml</loc>
+		<loc>https://glenwoodcanyonresort.com/author-sitemap.xml</loc>
 		<lastmod>2022-09-02T15:12:45+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
