@@ -83,7 +83,7 @@ a[target="_blank"]:after {
 --------------------------------------------------------------*/
 
 body.page .job-listing .inner {
-	padding:1.2em 0;
+	padding:1.2em 1em;
 }
 body.page .job-listing .inner:nth-child(2n) {
 	background-color:#dddddd;
