@@ -79,6 +79,15 @@ a[target="_blank"]:after {
 	background-size: contain;
 	display: inline-block;
 }
+a[target="_blank"]:has(img):after {
+	display:none;
+}
+header a[target="_blank"]:after {
+	display:none;
+}
+footer a[target="_blank"]:after {
+	display:none;
+}
 /*--------------------------------------------------------------
 # Navigation
 --------------------------------------------------------------*/
