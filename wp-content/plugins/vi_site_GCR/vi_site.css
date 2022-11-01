@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags:
 */
 
-/*@import url('navBar.css');*/
+/*@import url('https://glenwoodcanyonresort.com/wp-content/plugins/vi_site_GCR/navBar.css');*/
 
 /*
 element {
@@ -25,7 +25,7 @@ element {
 @font-face
 {
       font-family: title_font;
-      src: url("/_font/font.ttf");
+      src: url("https://glenwoodcanyonresort.com/_font/font.ttf");
 }
 COLORS:
 	red logo: #f05829; rgb(240, 88, 41)
