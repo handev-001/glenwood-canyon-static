@@ -5,17 +5,6 @@
 		<lastmod>2022-11-01T14:36:05+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://glenwoodcanyonresort.com/style-sheet-shortcode/</loc>
-		<lastmod>2018-03-11T21:57:51+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://glenwoodcanyonresort.com/style-sheet/</loc>
-		<lastmod>2018-04-12T17:44:58+00:00</lastmod>
-		<image:image>
-			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/02/style-banner.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://glenwoodcanyonresort.com/accommodations/glenwood-springs-tent-sites/</loc>
 		<lastmod>2018-05-15T20:24:34+00:00</lastmod>
 	</url>
@@ -45,35 +34,10 @@
 		<lastmod>2018-11-30T02:11:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://glenwoodcanyonresort.com/glenwood-canyon-resorts-message-regarding-covid-19/</loc>
-		<lastmod>2020-11-03T17:33:31+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://glenwoodcanyonresort.com/fabulous-camping-options/</loc>
-		<lastmod>2022-03-21T18:21:39+00:00</lastmod>
-		<image:image>
-			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2021/05/iStock-867402286_1080x720.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://glenwoodcanyonresort.com/policies-rules/privacy-policy/</loc>
 		<lastmod>2022-03-21T18:23:23+00:00</lastmod>
 		<image:image>
 			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/zipline-over-river.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://glenwoodcanyonresort.com/why-choose-us/</loc>
-		<lastmod>2022-04-21T19:04:18+00:00</lastmod>
-		<image:image>
-			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/12/Scenic-surroundings.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://glenwoodcanyonresort.com/policies-rules/</loc>
-		<lastmod>2022-04-21T19:35:25+00:00</lastmod>
-		<image:image>
-			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/bar-grill-flowers.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -237,6 +201,20 @@
 		<lastmod>2022-11-10T19:06:36+00:00</lastmod>
 		<image:image>
 			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/canyon-club-lodge-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://glenwoodcanyonresort.com/policies-rules/</loc>
+		<lastmod>2022-11-14T13:38:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/bar-grill-flowers.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://glenwoodcanyonresort.com/why-choose-us/</loc>
+		<lastmod>2022-11-17T14:34:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/12/Scenic-surroundings.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>

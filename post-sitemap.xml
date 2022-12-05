@@ -39,17 +39,17 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://glenwoodcanyonresort.com/gen/the-best-camping-grounds-in-colorado/</loc>
-		<lastmod>2022-09-06T19:43:01+00:00</lastmod>
-		<image:image>
-			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/02/33c2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://glenwoodcanyonresort.com/gen/why-you-should-have-your-outdoor-wedding-in-colorado/</loc>
 		<lastmod>2022-09-09T18:12:24+00:00</lastmod>
 		<image:image>
 			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/02/image1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://glenwoodcanyonresort.com/gen/the-best-camping-grounds-in-colorado/</loc>
+		<lastmod>2022-11-14T13:33:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/02/33c2.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
