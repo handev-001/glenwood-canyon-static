@@ -79,7 +79,7 @@ a[target="_blank"]:after {
 	background-size: contain;
 	display: inline-block;
 }
-a[target="_blank"]:has(img):after {
+a:has(img)[target="_blank"]:after {
 	display:none;
 }
 header a[target="_blank"]:after {
@@ -112,13 +112,29 @@ body.page .job-listing .entry-title:hover {
 	font-size: 1.6em;
 	text-decoration:none;
 }
-
 /*--------------------------------------------------------------
 # Footer Area
 --------------------------------------------------------------*/
 /*--------------------------------------------------------------
 # Other
 --------------------------------------------------------------*/
+
+form.net-form {
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:center;
+	align-items:stretch;
+	align-content:stretch;
+	gap: 10px 10px;
+}
+form.net-form label {
+	flex: 4 0 auto;
+}
+form.net-form input,
+form.net-form textbox {
+	flex: 1 0 auto;
+}
 
 /*--------------------------------------------------------------
 # Re-Usable Classes
