@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://glenwoodcanyonresort.com/</loc>
-		<lastmod>2022-12-08T14:14:44+00:00</lastmod>
+		<lastmod>2023-01-03T15:05:44+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://glenwoodcanyonresort.com/contact/map-directions/</loc>
@@ -16,27 +16,6 @@
 		<lastmod>2022-03-21T18:23:23+00:00</lastmod>
 		<image:image>
 			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/zipline-over-river.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://glenwoodcanyonresort.com/policies-rules/resort-policy-and-guidelines-agreement/</loc>
-		<lastmod>2022-04-29T17:47:53+00:00</lastmod>
-		<image:image>
-			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/bar-grill-flowers.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://glenwoodcanyonresort.com/groups-events/request-group-event-info/</loc>
-		<lastmod>2022-04-29T17:58:46+00:00</lastmod>
-		<image:image>
-			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/high-ropes-course-group.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://glenwoodcanyonresort.com/weddings/request-more-wedding-info/</loc>
-		<lastmod>2022-04-29T18:15:16+00:00</lastmod>
-		<image:image>
-			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/wedding-lodge-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -84,6 +63,10 @@
 		<image:image>
 			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/glenwood-canyon.jpg</image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc>https://glenwoodcanyonresort.com/404-2/</loc>
+		<lastmod>2022-11-01T16:32:28+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://glenwoodcanyonresort.com/activities/nearby-activities/</loc>
@@ -215,6 +198,31 @@
 		<lastmod>2022-12-14T19:32:07+00:00</lastmod>
 		<image:image>
 			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2022/10/IMG_3152_p.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://glenwoodcanyonresort.com/thank-you/</loc>
+		<lastmod>2023-01-03T20:15:59+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://glenwoodcanyonresort.com/policies-rules/resort-policy-and-guidelines-agreement/</loc>
+		<lastmod>2023-01-04T15:07:31+00:00</lastmod>
+		<image:image>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/bar-grill-flowers.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://glenwoodcanyonresort.com/weddings/request-more-wedding-info/</loc>
+		<lastmod>2023-01-04T15:10:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/wedding-lodge-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://glenwoodcanyonresort.com/groups-events/request-group-event-info/</loc>
+		<lastmod>2023-01-04T15:11:51+00:00</lastmod>
+		<image:image>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/05/high-ropes-course-group.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
