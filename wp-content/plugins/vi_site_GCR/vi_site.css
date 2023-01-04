@@ -127,7 +127,7 @@ form.net-form {
 	align-items:center;
 	align-content:flex-start;
 	gap: 15px 10px;
-	max-width: 600px;
+	max-width: 550px;
 	margin: 0 auto;
 }
 form.net-form > br {
@@ -140,7 +140,7 @@ form.net-form > .space {
 }
 form.net-form > input,
 form.net-form > textarea {
-	flex: 1 0 400px;
+	flex: 1 0 350px;
 	min-height:3em;
 }
 
