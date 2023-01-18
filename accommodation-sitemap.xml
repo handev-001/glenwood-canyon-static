@@ -15,13 +15,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://glenwoodcanyonresort.com/accommodation/multi-purpose-sites/</loc>
-		<lastmod>2022-08-18T17:16:08+00:00</lastmod>
-		<image:image>
-			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/02/Multi-purpose-site.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://glenwoodcanyonresort.com/accommodation/deluxe-resort-cabins/</loc>
 		<lastmod>2022-08-18T17:20:51+00:00</lastmod>
 		<image:image>
@@ -71,13 +64,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://glenwoodcanyonresort.com/accommodation/sprinter-village/</loc>
-		<lastmod>2022-10-11T18:57:26+00:00</lastmod>
-		<image:image>
-			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2022/07/Sprinter-Sign-scaled-e1662672238244.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://glenwoodcanyonresort.com/accommodation/family-modular/</loc>
 		<lastmod>2022-10-19T19:01:20+00:00</lastmod>
 		<image:image>
@@ -93,16 +79,30 @@
 	</url>
 	<url>
 		<loc>https://glenwoodcanyonresort.com/accommodation/cottages/</loc>
-		<lastmod>2022-12-22T21:20:18+00:00</lastmod>
+		<lastmod>2023-01-06T20:49:45+00:00</lastmod>
 		<image:image>
 			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/02/cottage-featured-image.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://glenwoodcanyonresort.com/accommodation/resort-cabin/</loc>
-		<lastmod>2022-12-22T21:28:34+00:00</lastmod>
+		<lastmod>2023-01-06T20:50:17+00:00</lastmod>
 		<image:image>
 			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/08/DSC_0183.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://glenwoodcanyonresort.com/accommodation/sprinter-village/</loc>
+		<lastmod>2023-01-18T14:45:51+00:00</lastmod>
+		<image:image>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2022/07/Sprinter-Sign-scaled-e1662672238244.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://glenwoodcanyonresort.com/accommodation/multi-purpose-sites/</loc>
+		<lastmod>2023-01-18T14:46:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://glenwoodcanyonresort.com/wp-content/uploads/2018/02/Multi-purpose-site.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
