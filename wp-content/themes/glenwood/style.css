@@ -5128,9 +5128,9 @@ a.content-link-col:hover , a.content-link-col:focus{color: #d15a26;}
 
 /* Fixes */
 
-.home .container-lg {
+/*.home .container-lg {
   overflow: hidden;
-}
+}*/
 
 .menu-bar, .header-call, .header-sec .sticky-logo, .header-sec .default-logo {
   transition: .3s all;
